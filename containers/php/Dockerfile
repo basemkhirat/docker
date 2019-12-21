@@ -1,6 +1,6 @@
 FROM php:7.3-fpm-alpine
 
-WORKDIR /var/www
+WORKDIR /www
 
 # Install Basic Extensions
 RUN docker-php-ext-install pdo pdo_mysql bcmath
