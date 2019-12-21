@@ -1,0 +1,1016 @@
+[2019-12-21T15:23:05.312+0000][1][gc] Using Concurrent Mark Sweep
+[2019-12-21T15:23:05.313+0000][1][gc,heap,coops] Heap address: 0x00000000c0000000, size: 1024 MB, Compressed Oops mode: 32-bit
+[2019-12-21T15:23:05.453+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000591 seconds, Stopping threads took: 0.0000034 seconds
+[2019-12-21T15:23:05.494+0000][1][safepoint    ] Application time: 0.0406227 seconds
+[2019-12-21T15:23:05.495+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001967 seconds, Stopping threads took: 0.0000048 seconds
+[2019-12-21T15:23:05.514+0000][1][safepoint    ] Application time: 0.0176617 seconds
+[2019-12-21T15:23:05.515+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003860 seconds, Stopping threads took: 0.0003057 seconds
+[2019-12-21T15:23:05.707+0000][1][safepoint    ] Application time: 0.1913615 seconds
+[2019-12-21T15:23:05.709+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001006 seconds, Stopping threads took: 0.0000058 seconds
+[2019-12-21T15:23:05.752+0000][1][safepoint    ] Application time: 0.0416173 seconds
+[2019-12-21T15:23:05.752+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000910 seconds, Stopping threads took: 0.0000052 seconds
+[2019-12-21T15:23:05.759+0000][1][safepoint    ] Application time: 0.0056359 seconds
+[2019-12-21T15:23:05.760+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000793 seconds, Stopping threads took: 0.0000068 seconds
+[2019-12-21T15:23:05.886+0000][1][safepoint    ] Application time: 0.1256004 seconds
+[2019-12-21T15:23:05.887+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001040 seconds, Stopping threads took: 0.0000056 seconds
+[2019-12-21T15:23:06.022+0000][1][safepoint    ] Application time: 0.1351749 seconds
+[2019-12-21T15:23:06.023+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001411 seconds, Stopping threads took: 0.0000061 seconds
+[2019-12-21T15:23:07.025+0000][1][safepoint    ] Application time: 1.0012193 seconds
+[2019-12-21T15:23:07.026+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0005190 seconds, Stopping threads took: 0.0000091 seconds
+[2019-12-21T15:23:07.254+0000][1][safepoint    ] Application time: 0.2271878 seconds
+[2019-12-21T15:23:07.255+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001780 seconds, Stopping threads took: 0.0000071 seconds
+[2019-12-21T15:23:07.261+0000][1][safepoint    ] Application time: 0.0050935 seconds
+[2019-12-21T15:23:07.262+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001361 seconds, Stopping threads took: 0.0000054 seconds
+[2019-12-21T15:23:07.440+0000][1][safepoint    ] Application time: 0.1777927 seconds
+[2019-12-21T15:23:07.441+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001877 seconds, Stopping threads took: 0.0000061 seconds
+[2019-12-21T15:23:07.760+0000][1][safepoint    ] Application time: 0.3124945 seconds
+[2019-12-21T15:23:07.762+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002160 seconds, Stopping threads took: 0.0000077 seconds
+[2019-12-21T15:23:08.492+0000][1][safepoint    ] Application time: 0.7294144 seconds
+[2019-12-21T15:23:08.493+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003657 seconds, Stopping threads took: 0.0000339 seconds
+[2019-12-21T15:23:08.539+0000][1][safepoint    ] Application time: 0.0448526 seconds
+[2019-12-21T15:23:08.540+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002893 seconds, Stopping threads took: 0.0000140 seconds
+[2019-12-21T15:23:08.556+0000][1][safepoint    ] Application time: 0.0161868 seconds
+[2019-12-21T15:23:08.557+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002456 seconds, Stopping threads took: 0.0001558 seconds
+[2019-12-21T15:23:08.558+0000][1][safepoint    ] Application time: 0.0002247 seconds
+[2019-12-21T15:23:08.559+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001858 seconds, Stopping threads took: 0.0001420 seconds
+[2019-12-21T15:23:08.559+0000][1][safepoint    ] Application time: 0.0002276 seconds
+[2019-12-21T15:23:08.560+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000768 seconds, Stopping threads took: 0.0000070 seconds
+[2019-12-21T15:23:08.561+0000][1][safepoint    ] Application time: 0.0004858 seconds
+[2019-12-21T15:23:08.561+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003480 seconds, Stopping threads took: 0.0003083 seconds
+[2019-12-21T15:23:09.213+0000][1][safepoint    ] Application time: 0.6516781 seconds
+[2019-12-21T15:23:09.217+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002633 seconds, Stopping threads took: 0.0000124 seconds
+[2019-12-21T15:23:09.223+0000][1][safepoint    ] Application time: 0.0058943 seconds
+[2019-12-21T15:23:09.224+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003140 seconds, Stopping threads took: 0.0000139 seconds
+[2019-12-21T15:23:09.394+0000][1][safepoint    ] Application time: 0.1694630 seconds
+[2019-12-21T15:23:09.396+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002244 seconds, Stopping threads took: 0.0000129 seconds
+[2019-12-21T15:23:09.405+0000][1][safepoint    ] Application time: 0.0074441 seconds
+[2019-12-21T15:23:09.406+0000][1][gc,start     ] GC(0) Pause Initial Mark
+[2019-12-21T15:23:09.428+0000][1][gc           ] GC(0) Pause Initial Mark 69M->69M(990M) 21.648ms
+[2019-12-21T15:23:09.429+0000][1][gc,cpu       ] GC(0) User=0.05s Sys=0.00s Real=0.02s
+[2019-12-21T15:23:09.429+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0233339 seconds, Stopping threads took: 0.0005416 seconds
+[2019-12-21T15:23:09.430+0000][1][gc           ] GC(0) Concurrent Mark
+[2019-12-21T15:23:09.436+0000][1][gc           ] GC(0) Concurrent Mark 5.709ms
+[2019-12-21T15:23:09.436+0000][1][gc,cpu       ] GC(0) User=0.02s Sys=0.00s Real=0.01s
+[2019-12-21T15:23:09.438+0000][1][gc           ] GC(0) Concurrent Preclean
+[2019-12-21T15:23:09.440+0000][1][gc           ] GC(0) Concurrent Preclean 2.081ms
+[2019-12-21T15:23:09.441+0000][1][gc,cpu       ] GC(0) User=0.00s Sys=0.00s Real=0.00s
+[2019-12-21T15:23:09.442+0000][1][gc           ] GC(0) Concurrent Abortable Preclean
+[2019-12-21T15:23:09.515+0000][1][safepoint    ] Application time: 0.0851987 seconds
+[2019-12-21T15:23:09.516+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001639 seconds, Stopping threads took: 0.0000106 seconds
+[2019-12-21T15:23:09.527+0000][1][safepoint    ] Application time: 0.0103695 seconds
+[2019-12-21T15:23:09.529+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0005052 seconds, Stopping threads took: 0.0000836 seconds
+[2019-12-21T15:23:09.934+0000][1][safepoint    ] Application time: 0.4047447 seconds
+[2019-12-21T15:23:09.935+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002534 seconds, Stopping threads took: 0.0000157 seconds
+[2019-12-21T15:23:09.999+0000][1][safepoint    ] Application time: 0.0633556 seconds
+[2019-12-21T15:23:10.000+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002509 seconds, Stopping threads took: 0.0000106 seconds
+[2019-12-21T15:23:10.069+0000][1][safepoint    ] Application time: 0.0680391 seconds
+[2019-12-21T15:23:10.070+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001913 seconds, Stopping threads took: 0.0000545 seconds
+[2019-12-21T15:23:10.345+0000][1][safepoint    ] Application time: 0.2746124 seconds
+[2019-12-21T15:23:10.346+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003306 seconds, Stopping threads took: 0.0001086 seconds
+[2019-12-21T15:23:10.349+0000][1][safepoint    ] Application time: 0.0022731 seconds
+[2019-12-21T15:23:10.349+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001037 seconds, Stopping threads took: 0.0000347 seconds
+[2019-12-21T15:23:10.361+0000][1][safepoint    ] Application time: 0.0110009 seconds
+[2019-12-21T15:23:10.361+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000791 seconds, Stopping threads took: 0.0000087 seconds
+[2019-12-21T15:23:10.653+0000][1][safepoint    ] Application time: 0.2913939 seconds
+[2019-12-21T15:23:10.654+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002359 seconds, Stopping threads took: 0.0000107 seconds
+[2019-12-21T15:23:10.747+0000][1][safepoint    ] Application time: 0.0923780 seconds
+[2019-12-21T15:23:10.747+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001900 seconds, Stopping threads took: 0.0000091 seconds
+[2019-12-21T15:23:10.761+0000][1][safepoint    ] Application time: 0.0135604 seconds
+[2019-12-21T15:23:10.762+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000593 seconds, Stopping threads took: 0.0000144 seconds
+[2019-12-21T15:23:10.763+0000][1][safepoint    ] Application time: 0.0012884 seconds
+[2019-12-21T15:23:10.764+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000784 seconds, Stopping threads took: 0.0000288 seconds
+[2019-12-21T15:23:10.766+0000][1][safepoint    ] Application time: 0.0013893 seconds
+[2019-12-21T15:23:10.767+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000625 seconds, Stopping threads took: 0.0000105 seconds
+[2019-12-21T15:23:10.801+0000][1][safepoint    ] Application time: 0.0331657 seconds
+[2019-12-21T15:23:10.804+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002173 seconds, Stopping threads took: 0.0000144 seconds
+[2019-12-21T15:23:10.807+0000][1][safepoint    ] Application time: 0.0023227 seconds
+[2019-12-21T15:23:10.809+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003587 seconds, Stopping threads took: 0.0000098 seconds
+[2019-12-21T15:23:10.817+0000][1][safepoint    ] Application time: 0.0083796 seconds
+[2019-12-21T15:23:10.819+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002078 seconds, Stopping threads took: 0.0000123 seconds
+[2019-12-21T15:23:10.859+0000][1][safepoint    ] Application time: 0.0392412 seconds
+[2019-12-21T15:23:10.861+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002686 seconds, Stopping threads took: 0.0000691 seconds
+[2019-12-21T15:23:10.944+0000][1][safepoint    ] Application time: 0.0819448 seconds
+[2019-12-21T15:23:10.945+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003682 seconds, Stopping threads took: 0.0002151 seconds
+[2019-12-21T15:23:10.977+0000][1][safepoint    ] Application time: 0.0307433 seconds
+[2019-12-21T15:23:10.978+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002053 seconds, Stopping threads took: 0.0000241 seconds
+[2019-12-21T15:23:11.000+0000][1][safepoint    ] Application time: 0.0214980 seconds
+[2019-12-21T15:23:11.003+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001876 seconds, Stopping threads took: 0.0000093 seconds
+[2019-12-21T15:23:11.248+0000][1][safepoint    ] Application time: 0.2439461 seconds
+[2019-12-21T15:23:11.253+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002596 seconds, Stopping threads took: 0.0000107 seconds
+[2019-12-21T15:23:11.308+0000][1][safepoint    ] Application time: 0.0545953 seconds
+[2019-12-21T15:23:11.309+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001911 seconds, Stopping threads took: 0.0000105 seconds
+[2019-12-21T15:23:11.335+0000][1][safepoint    ] Application time: 0.0233555 seconds
+[2019-12-21T15:23:11.338+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001860 seconds, Stopping threads took: 0.0000111 seconds
+[2019-12-21T15:23:11.474+0000][1][safepoint    ] Application time: 0.1314828 seconds
+[2019-12-21T15:23:11.476+0000][1][gc,start     ] GC(1) Pause Young (Allocation Failure)
+[2019-12-21T15:23:11.477+0000][1][gc,task      ] GC(1) Using 4 workers of 4 for evacuation
+[2019-12-21T15:23:11.506+0000][1][gc,age       ] GC(1) Desired survivor size 17432576 bytes, new threshold 6 (max threshold 6)
+[2019-12-21T15:23:11.507+0000][1][gc,age       ] GC(1) Age table with threshold 6 (max threshold 6)
+[2019-12-21T15:23:11.508+0000][1][gc,age       ] GC(1) - age   1:   10724688 bytes,   10724688 total
+[2019-12-21T15:23:11.508+0000][1][gc,heap      ] GC(1) ParNew: 272640K->10595K(306688K)
+[2019-12-21T15:23:11.509+0000][1][gc,heap      ] GC(1) CMS: 0K->0K(707840K)
+[2019-12-21T15:23:11.509+0000][1][gc,metaspace ] GC(1) Metaspace: 26286K->26286K(1073152K)
+[2019-12-21T15:23:11.510+0000][1][gc           ] GC(1) Pause Young (Allocation Failure) 266M->10M(990M) 33.413ms
+[2019-12-21T15:23:11.510+0000][1][gc,cpu       ] GC(1) User=0.08s Sys=0.01s Real=0.04s
+[2019-12-21T15:23:11.511+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0344727 seconds, Stopping threads took: 0.0000125 seconds
+[2019-12-21T15:23:11.536+0000][1][safepoint    ] Application time: 0.0249131 seconds
+[2019-12-21T15:23:11.537+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002182 seconds, Stopping threads took: 0.0001167 seconds
+[2019-12-21T15:23:11.540+0000][1][safepoint    ] Application time: 0.0003854 seconds
+[2019-12-21T15:23:11.545+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000986 seconds, Stopping threads took: 0.0000093 seconds
+[2019-12-21T15:23:11.547+0000][1][safepoint    ] Application time: 0.0006188 seconds
+[2019-12-21T15:23:11.548+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000818 seconds, Stopping threads took: 0.0000104 seconds
+[2019-12-21T15:23:11.550+0000][1][safepoint    ] Application time: 0.0001511 seconds
+[2019-12-21T15:23:11.550+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000795 seconds, Stopping threads took: 0.0000089 seconds
+[2019-12-21T15:23:11.551+0000][1][safepoint    ] Application time: 0.0001123 seconds
+[2019-12-21T15:23:11.551+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000787 seconds, Stopping threads took: 0.0000091 seconds
+[2019-12-21T15:23:11.552+0000][1][safepoint    ] Application time: 0.0002273 seconds
+[2019-12-21T15:23:11.553+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001058 seconds, Stopping threads took: 0.0000336 seconds
+[2019-12-21T15:23:11.553+0000][1][safepoint    ] Application time: 0.0001267 seconds
+[2019-12-21T15:23:11.554+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001078 seconds, Stopping threads took: 0.0000090 seconds
+[2019-12-21T15:23:11.555+0000][1][safepoint    ] Application time: 0.0001335 seconds
+[2019-12-21T15:23:11.555+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001036 seconds, Stopping threads took: 0.0000124 seconds
+[2019-12-21T15:23:11.556+0000][1][safepoint    ] Application time: 0.0001208 seconds
+[2019-12-21T15:23:11.557+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000940 seconds, Stopping threads took: 0.0000105 seconds
+[2019-12-21T15:23:11.557+0000][1][safepoint    ] Application time: 0.0001446 seconds
+[2019-12-21T15:23:11.558+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000962 seconds, Stopping threads took: 0.0000106 seconds
+[2019-12-21T15:23:11.559+0000][1][safepoint    ] Application time: 0.0001100 seconds
+[2019-12-21T15:23:11.560+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000912 seconds, Stopping threads took: 0.0000099 seconds
+[2019-12-21T15:23:11.560+0000][1][safepoint    ] Application time: 0.0001497 seconds
+[2019-12-21T15:23:11.561+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000845 seconds, Stopping threads took: 0.0000093 seconds
+[2019-12-21T15:23:11.561+0000][1][safepoint    ] Application time: 0.0001097 seconds
+[2019-12-21T15:23:11.562+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000839 seconds, Stopping threads took: 0.0000084 seconds
+[2019-12-21T15:23:11.562+0000][1][safepoint    ] Application time: 0.0001358 seconds
+[2019-12-21T15:23:11.566+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001046 seconds, Stopping threads took: 0.0000346 seconds
+[2019-12-21T15:23:11.566+0000][1][safepoint    ] Application time: 0.0001093 seconds
+[2019-12-21T15:23:11.570+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001026 seconds, Stopping threads took: 0.0000133 seconds
+[2019-12-21T15:23:11.573+0000][1][safepoint    ] Application time: 0.0017774 seconds
+[2019-12-21T15:23:11.573+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000975 seconds, Stopping threads took: 0.0000442 seconds
+[2019-12-21T15:23:11.574+0000][1][safepoint    ] Application time: 0.0001181 seconds
+[2019-12-21T15:23:11.575+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000614 seconds, Stopping threads took: 0.0000080 seconds
+[2019-12-21T15:23:11.603+0000][1][safepoint    ] Application time: 0.0277772 seconds
+[2019-12-21T15:23:11.606+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002070 seconds, Stopping threads took: 0.0000132 seconds
+[2019-12-21T15:23:11.811+0000][1][safepoint    ] Application time: 0.2043769 seconds
+[2019-12-21T15:23:11.815+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004967 seconds, Stopping threads took: 0.0000401 seconds
+[2019-12-21T15:23:11.824+0000][1][safepoint    ] Application time: 0.0066788 seconds
+[2019-12-21T15:23:11.825+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001477 seconds, Stopping threads took: 0.0000408 seconds
+[2019-12-21T15:23:11.831+0000][1][safepoint    ] Application time: 0.0053244 seconds
+[2019-12-21T15:23:11.833+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000959 seconds, Stopping threads took: 0.0000167 seconds
+[2019-12-21T15:23:11.889+0000][1][safepoint    ] Application time: 0.0542045 seconds
+[2019-12-21T15:23:11.890+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001314 seconds, Stopping threads took: 0.0000110 seconds
+[2019-12-21T15:23:12.049+0000][1][safepoint    ] Application time: 0.1584728 seconds
+[2019-12-21T15:23:12.051+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003569 seconds, Stopping threads took: 0.0002009 seconds
+[2019-12-21T15:23:12.244+0000][1][gc           ] GC(0) Concurrent Abortable Preclean 2802.234ms
+[2019-12-21T15:23:12.245+0000][1][gc,cpu       ] GC(0) User=7.00s Sys=0.43s Real=2.80s
+[2019-12-21T15:23:12.245+0000][1][safepoint    ] Application time: 0.1933884 seconds
+[2019-12-21T15:23:12.246+0000][1][gc,start     ] GC(0) Pause Remark
+[2019-12-21T15:23:12.338+0000][1][gc           ] GC(0) Pause Remark 175M->175M(990M) 92.256ms
+[2019-12-21T15:23:12.339+0000][1][gc,cpu       ] GC(0) User=0.28s Sys=0.01s Real=0.09s
+[2019-12-21T15:23:12.340+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0946694 seconds, Stopping threads took: 0.0000386 seconds
+[2019-12-21T15:23:12.341+0000][1][gc           ] GC(0) Concurrent Sweep
+[2019-12-21T15:23:12.341+0000][1][gc           ] GC(0) Concurrent Sweep 0.464ms
+[2019-12-21T15:23:12.342+0000][1][gc,cpu       ] GC(0) User=0.00s Sys=0.00s Real=0.00s
+[2019-12-21T15:23:12.342+0000][1][gc           ] GC(0) Concurrent Reset
+[2019-12-21T15:23:12.344+0000][1][gc           ] GC(0) Concurrent Reset 2.034ms
+[2019-12-21T15:23:12.347+0000][1][gc,cpu       ] GC(0) User=0.01s Sys=0.00s Real=0.01s
+[2019-12-21T15:23:12.347+0000][1][gc,heap      ] GC(0) Old: 0K->0K(707840K)
+[2019-12-21T15:23:12.874+0000][1][safepoint    ] Application time: 0.5328666 seconds
+[2019-12-21T15:23:12.877+0000][1][gc,start     ] GC(2) Pause Young (Allocation Failure)
+[2019-12-21T15:23:12.883+0000][1][gc,task      ] GC(2) Using 4 workers of 4 for evacuation
+[2019-12-21T15:23:12.909+0000][1][gc,age       ] GC(2) Desired survivor size 17432576 bytes, new threshold 6 (max threshold 6)
+[2019-12-21T15:23:12.911+0000][1][gc,age       ] GC(2) Age table with threshold 6 (max threshold 6)
+[2019-12-21T15:23:12.912+0000][1][gc,age       ] GC(2) - age   1:    5443016 bytes,    5443016 total
+[2019-12-21T15:23:12.914+0000][1][gc,age       ] GC(2) - age   2:    9914448 bytes,   15357464 total
+[2019-12-21T15:23:12.916+0000][1][gc,heap      ] GC(2) ParNew: 283235K->18725K(306688K)
+[2019-12-21T15:23:12.918+0000][1][gc,heap      ] GC(2) CMS: 0K->0K(707840K)
+[2019-12-21T15:23:12.918+0000][1][gc,metaspace ] GC(2) Metaspace: 28025K->28025K(1075200K)
+[2019-12-21T15:23:12.919+0000][1][gc           ] GC(2) Pause Young (Allocation Failure) 276M->18M(990M) 41.683ms
+[2019-12-21T15:23:12.921+0000][1][gc,cpu       ] GC(2) User=0.12s Sys=0.01s Real=0.04s
+[2019-12-21T15:23:12.923+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0454209 seconds, Stopping threads took: 0.0000114 seconds
+[2019-12-21T15:23:12.940+0000][1][safepoint    ] Application time: 0.0165662 seconds
+[2019-12-21T15:23:12.940+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000944 seconds, Stopping threads took: 0.0000073 seconds
+[2019-12-21T15:23:12.941+0000][1][safepoint    ] Application time: 0.0001611 seconds
+[2019-12-21T15:23:12.947+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0057692 seconds, Stopping threads took: 0.0056714 seconds
+[2019-12-21T15:23:12.949+0000][1][safepoint    ] Application time: 0.0007766 seconds
+[2019-12-21T15:23:12.955+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0037436 seconds, Stopping threads took: 0.0036608 seconds
+[2019-12-21T15:23:12.960+0000][1][safepoint    ] Application time: 0.0044592 seconds
+[2019-12-21T15:23:12.965+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0038581 seconds, Stopping threads took: 0.0037872 seconds
+[2019-12-21T15:23:12.967+0000][1][safepoint    ] Application time: 0.0014693 seconds
+[2019-12-21T15:23:12.972+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0038987 seconds, Stopping threads took: 0.0037968 seconds
+[2019-12-21T15:23:12.974+0000][1][safepoint    ] Application time: 0.0014077 seconds
+[2019-12-21T15:23:12.980+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0036753 seconds, Stopping threads took: 0.0036053 seconds
+[2019-12-21T15:23:12.995+0000][1][safepoint    ] Application time: 0.0143934 seconds
+[2019-12-21T15:23:13.004+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0075265 seconds, Stopping threads took: 0.0074248 seconds
+[2019-12-21T15:23:13.005+0000][1][safepoint    ] Application time: 0.0003089 seconds
+[2019-12-21T15:23:13.012+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0066375 seconds, Stopping threads took: 0.0065638 seconds
+[2019-12-21T15:23:13.017+0000][1][safepoint    ] Application time: 0.0007783 seconds
+[2019-12-21T15:23:13.022+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0036973 seconds, Stopping threads took: 0.0035994 seconds
+[2019-12-21T15:23:13.024+0000][1][safepoint    ] Application time: 0.0016757 seconds
+[2019-12-21T15:23:13.025+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000899 seconds, Stopping threads took: 0.0000245 seconds
+[2019-12-21T15:23:13.026+0000][1][safepoint    ] Application time: 0.0007241 seconds
+[2019-12-21T15:23:13.039+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0088758 seconds, Stopping threads took: 0.0087970 seconds
+[2019-12-21T15:23:13.041+0000][1][safepoint    ] Application time: 0.0013957 seconds
+[2019-12-21T15:23:13.045+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0038992 seconds, Stopping threads took: 0.0038272 seconds
+[2019-12-21T15:23:13.046+0000][1][safepoint    ] Application time: 0.0002471 seconds
+[2019-12-21T15:23:13.047+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000703 seconds, Stopping threads took: 0.0000082 seconds
+[2019-12-21T15:23:13.062+0000][1][safepoint    ] Application time: 0.0143922 seconds
+[2019-12-21T15:23:13.062+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000951 seconds, Stopping threads took: 0.0000070 seconds
+[2019-12-21T15:23:14.063+0000][1][safepoint    ] Application time: 1.0002236 seconds
+[2019-12-21T15:23:14.064+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001815 seconds, Stopping threads took: 0.0000407 seconds
+[2019-12-21T15:23:14.248+0000][1][safepoint    ] Application time: 0.1838039 seconds
+[2019-12-21T15:23:14.249+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004755 seconds, Stopping threads took: 0.0000067 seconds
+[2019-12-21T15:23:15.260+0000][1][safepoint    ] Application time: 1.0100868 seconds
+[2019-12-21T15:23:15.295+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002643 seconds, Stopping threads took: 0.0000315 seconds
+[2019-12-21T15:23:15.457+0000][1][safepoint    ] Application time: 0.1602113 seconds
+[2019-12-21T15:23:15.458+0000][1][gc,start     ] GC(3) Pause Young (Allocation Failure)
+[2019-12-21T15:23:15.458+0000][1][gc,task      ] GC(3) Using 4 workers of 4 for evacuation
+[2019-12-21T15:23:15.494+0000][1][gc,age       ] GC(3) Desired survivor size 17432576 bytes, new threshold 3 (max threshold 6)
+[2019-12-21T15:23:15.495+0000][1][gc,age       ] GC(3) Age table with threshold 3 (max threshold 6)
+[2019-12-21T15:23:15.496+0000][1][gc,age       ] GC(3) - age   1:   12543392 bytes,   12543392 total
+[2019-12-21T15:23:15.496+0000][1][gc,age       ] GC(3) - age   2:    3960888 bytes,   16504280 total
+[2019-12-21T15:23:15.497+0000][1][gc,age       ] GC(3) - age   3:    9839920 bytes,   26344200 total
+[2019-12-21T15:23:15.497+0000][1][gc,heap      ] GC(3) ParNew: 291365K->32020K(306688K)
+[2019-12-21T15:23:15.498+0000][1][gc,heap      ] GC(3) CMS: 0K->0K(707840K)
+[2019-12-21T15:23:15.499+0000][1][gc,metaspace ] GC(3) Metaspace: 34369K->34369K(1081344K)
+[2019-12-21T15:23:15.499+0000][1][gc           ] GC(3) Pause Young (Allocation Failure) 284M->31M(990M) 41.444ms
+[2019-12-21T15:23:15.500+0000][1][gc,cpu       ] GC(3) User=0.11s Sys=0.01s Real=0.04s
+[2019-12-21T15:23:15.501+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0437004 seconds, Stopping threads took: 0.0000102 seconds
+[2019-12-21T15:23:16.503+0000][1][safepoint    ] Application time: 1.0002834 seconds
+[2019-12-21T15:23:16.507+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0032682 seconds, Stopping threads took: 0.0032082 seconds
+[2019-12-21T15:23:17.077+0000][1][safepoint    ] Application time: 0.5683079 seconds
+[2019-12-21T15:23:17.078+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001582 seconds, Stopping threads took: 0.0000094 seconds
+[2019-12-21T15:23:17.733+0000][1][safepoint    ] Application time: 0.6541693 seconds
+[2019-12-21T15:23:17.735+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001495 seconds, Stopping threads took: 0.0000146 seconds
+[2019-12-21T15:23:17.835+0000][1][safepoint    ] Application time: 0.0997321 seconds
+[2019-12-21T15:23:17.838+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0009656 seconds, Stopping threads took: 0.0000120 seconds
+[2019-12-21T15:23:18.322+0000][1][safepoint    ] Application time: 0.4828726 seconds
+[2019-12-21T15:23:18.325+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001082 seconds, Stopping threads took: 0.0000130 seconds
+[2019-12-21T15:23:19.330+0000][1][safepoint    ] Application time: 1.0006821 seconds
+[2019-12-21T15:23:19.331+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002271 seconds, Stopping threads took: 0.0000231 seconds
+[2019-12-21T15:23:19.470+0000][1][safepoint    ] Application time: 0.1378318 seconds
+[2019-12-21T15:23:19.471+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001549 seconds, Stopping threads took: 0.0000094 seconds
+[2019-12-21T15:23:19.473+0000][1][safepoint    ] Application time: 0.0005619 seconds
+[2019-12-21T15:23:19.477+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001753 seconds, Stopping threads took: 0.0000838 seconds
+[2019-12-21T15:23:19.479+0000][1][safepoint    ] Application time: 0.0001100 seconds
+[2019-12-21T15:23:19.484+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0026800 seconds, Stopping threads took: 0.0025854 seconds
+[2019-12-21T15:23:19.486+0000][1][safepoint    ] Application time: 0.0001331 seconds
+[2019-12-21T15:23:19.490+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001374 seconds, Stopping threads took: 0.0000443 seconds
+[2019-12-21T15:23:19.491+0000][1][safepoint    ] Application time: 0.0001657 seconds
+[2019-12-21T15:23:19.492+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001091 seconds, Stopping threads took: 0.0000110 seconds
+[2019-12-21T15:23:19.493+0000][1][safepoint    ] Application time: 0.0001228 seconds
+[2019-12-21T15:23:19.494+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000933 seconds, Stopping threads took: 0.0000102 seconds
+[2019-12-21T15:23:19.496+0000][1][safepoint    ] Application time: 0.0008070 seconds
+[2019-12-21T15:23:19.500+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000962 seconds, Stopping threads took: 0.0000102 seconds
+[2019-12-21T15:23:19.505+0000][1][safepoint    ] Application time: 0.0000918 seconds
+[2019-12-21T15:23:19.505+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001051 seconds, Stopping threads took: 0.0000128 seconds
+[2019-12-21T15:23:19.506+0000][1][safepoint    ] Application time: 0.0001212 seconds
+[2019-12-21T15:23:19.507+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000895 seconds, Stopping threads took: 0.0000093 seconds
+[2019-12-21T15:23:19.508+0000][1][safepoint    ] Application time: 0.0000922 seconds
+[2019-12-21T15:23:19.508+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001597 seconds, Stopping threads took: 0.0000102 seconds
+[2019-12-21T15:23:19.510+0000][1][safepoint    ] Application time: 0.0004912 seconds
+[2019-12-21T15:23:19.511+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001205 seconds, Stopping threads took: 0.0000125 seconds
+[2019-12-21T15:23:19.511+0000][1][safepoint    ] Application time: 0.0001337 seconds
+[2019-12-21T15:23:19.514+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002957 seconds, Stopping threads took: 0.0000124 seconds
+[2019-12-21T15:23:19.515+0000][1][safepoint    ] Application time: 0.0000610 seconds
+[2019-12-21T15:23:19.516+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001266 seconds, Stopping threads took: 0.0000114 seconds
+[2019-12-21T15:23:19.526+0000][1][safepoint    ] Application time: 0.0093078 seconds
+[2019-12-21T15:23:19.527+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000905 seconds, Stopping threads took: 0.0000088 seconds
+[2019-12-21T15:23:19.527+0000][1][safepoint    ] Application time: 0.0000817 seconds
+[2019-12-21T15:23:19.528+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002097 seconds, Stopping threads took: 0.0001512 seconds
+[2019-12-21T15:23:19.529+0000][1][safepoint    ] Application time: 0.0002736 seconds
+[2019-12-21T15:23:19.530+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000622 seconds, Stopping threads took: 0.0000099 seconds
+[2019-12-21T15:23:19.530+0000][1][safepoint    ] Application time: 0.0000833 seconds
+[2019-12-21T15:23:19.531+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000834 seconds, Stopping threads took: 0.0000075 seconds
+[2019-12-21T15:23:19.532+0000][1][safepoint    ] Application time: 0.0000490 seconds
+[2019-12-21T15:23:19.532+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000523 seconds, Stopping threads took: 0.0000073 seconds
+[2019-12-21T15:23:19.533+0000][1][safepoint    ] Application time: 0.0000484 seconds
+[2019-12-21T15:23:19.533+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000567 seconds, Stopping threads took: 0.0000091 seconds
+[2019-12-21T15:23:19.534+0000][1][safepoint    ] Application time: 0.0000539 seconds
+[2019-12-21T15:23:19.535+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000575 seconds, Stopping threads took: 0.0000081 seconds
+[2019-12-21T15:23:19.535+0000][1][safepoint    ] Application time: 0.0000876 seconds
+[2019-12-21T15:23:19.536+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000628 seconds, Stopping threads took: 0.0000154 seconds
+[2019-12-21T15:23:19.536+0000][1][safepoint    ] Application time: 0.0000813 seconds
+[2019-12-21T15:23:19.537+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000504 seconds, Stopping threads took: 0.0000072 seconds
+[2019-12-21T15:23:19.537+0000][1][safepoint    ] Application time: 0.0000789 seconds
+[2019-12-21T15:23:19.538+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000531 seconds, Stopping threads took: 0.0000079 seconds
+[2019-12-21T15:23:19.539+0000][1][safepoint    ] Application time: 0.0000797 seconds
+[2019-12-21T15:23:19.539+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001394 seconds, Stopping threads took: 0.0000082 seconds
+[2019-12-21T15:23:19.540+0000][1][safepoint    ] Application time: 0.0001205 seconds
+[2019-12-21T15:23:19.541+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000593 seconds, Stopping threads took: 0.0000081 seconds
+[2019-12-21T15:23:19.541+0000][1][safepoint    ] Application time: 0.0000810 seconds
+[2019-12-21T15:23:19.543+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000707 seconds, Stopping threads took: 0.0000109 seconds
+[2019-12-21T15:23:19.544+0000][1][safepoint    ] Application time: 0.0000633 seconds
+[2019-12-21T15:23:19.545+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000653 seconds, Stopping threads took: 0.0000104 seconds
+[2019-12-21T15:23:19.546+0000][1][safepoint    ] Application time: 0.0001667 seconds
+[2019-12-21T15:23:19.546+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000563 seconds, Stopping threads took: 0.0000082 seconds
+[2019-12-21T15:23:19.547+0000][1][safepoint    ] Application time: 0.0002689 seconds
+[2019-12-21T15:23:19.548+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000779 seconds, Stopping threads took: 0.0000130 seconds
+[2019-12-21T15:23:19.550+0000][1][safepoint    ] Application time: 0.0015196 seconds
+[2019-12-21T15:23:19.551+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001207 seconds, Stopping threads took: 0.0000136 seconds
+[2019-12-21T15:23:19.553+0000][1][safepoint    ] Application time: 0.0002374 seconds
+[2019-12-21T15:23:19.554+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001061 seconds, Stopping threads took: 0.0000097 seconds
+[2019-12-21T15:23:19.555+0000][1][safepoint    ] Application time: 0.0007487 seconds
+[2019-12-21T15:23:19.556+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001031 seconds, Stopping threads took: 0.0000076 seconds
+[2019-12-21T15:23:19.557+0000][1][safepoint    ] Application time: 0.0006601 seconds
+[2019-12-21T15:23:19.557+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000998 seconds, Stopping threads took: 0.0000077 seconds
+[2019-12-21T15:23:19.560+0000][1][safepoint    ] Application time: 0.0018250 seconds
+[2019-12-21T15:23:19.560+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000824 seconds, Stopping threads took: 0.0000067 seconds
+[2019-12-21T15:23:19.561+0000][1][safepoint    ] Application time: 0.0001993 seconds
+[2019-12-21T15:23:19.562+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001061 seconds, Stopping threads took: 0.0000075 seconds
+[2019-12-21T15:23:19.564+0000][1][safepoint    ] Application time: 0.0011043 seconds
+[2019-12-21T15:23:19.565+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001280 seconds, Stopping threads took: 0.0000102 seconds
+[2019-12-21T15:23:19.566+0000][1][safepoint    ] Application time: 0.0009808 seconds
+[2019-12-21T15:23:19.567+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001330 seconds, Stopping threads took: 0.0000108 seconds
+[2019-12-21T15:23:19.568+0000][1][safepoint    ] Application time: 0.0003138 seconds
+[2019-12-21T15:23:19.568+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000703 seconds, Stopping threads took: 0.0000089 seconds
+[2019-12-21T15:23:19.569+0000][1][safepoint    ] Application time: 0.0002404 seconds
+[2019-12-21T15:23:19.570+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002639 seconds, Stopping threads took: 0.0001814 seconds
+[2019-12-21T15:23:19.572+0000][1][safepoint    ] Application time: 0.0007551 seconds
+[2019-12-21T15:23:19.573+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0005211 seconds, Stopping threads took: 0.0004303 seconds
+[2019-12-21T15:23:19.574+0000][1][safepoint    ] Application time: 0.0001081 seconds
+[2019-12-21T15:23:19.575+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000918 seconds, Stopping threads took: 0.0000095 seconds
+[2019-12-21T15:23:19.959+0000][1][safepoint    ] Application time: 0.3831256 seconds
+[2019-12-21T15:23:19.960+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003497 seconds, Stopping threads took: 0.0000083 seconds
+[2019-12-21T15:23:20.025+0000][1][safepoint    ] Application time: 0.0641648 seconds
+[2019-12-21T15:23:20.026+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001955 seconds, Stopping threads took: 0.0000125 seconds
+[2019-12-21T15:23:20.083+0000][1][safepoint    ] Application time: 0.0564728 seconds
+[2019-12-21T15:23:20.084+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001788 seconds, Stopping threads took: 0.0000056 seconds
+[2019-12-21T15:23:20.131+0000][1][safepoint    ] Application time: 0.0469326 seconds
+[2019-12-21T15:23:20.132+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001196 seconds, Stopping threads took: 0.0000059 seconds
+[2019-12-21T15:23:20.180+0000][1][safepoint    ] Application time: 0.0479603 seconds
+[2019-12-21T15:23:20.180+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000814 seconds, Stopping threads took: 0.0000057 seconds
+[2019-12-21T15:23:20.222+0000][1][safepoint    ] Application time: 0.0410988 seconds
+[2019-12-21T15:23:20.223+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001771 seconds, Stopping threads took: 0.0000094 seconds
+[2019-12-21T15:23:20.275+0000][1][safepoint    ] Application time: 0.0523133 seconds
+[2019-12-21T15:23:20.276+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001704 seconds, Stopping threads took: 0.0000115 seconds
+[2019-12-21T15:23:20.329+0000][1][safepoint    ] Application time: 0.0518361 seconds
+[2019-12-21T15:23:20.330+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003063 seconds, Stopping threads took: 0.0000358 seconds
+[2019-12-21T15:23:20.443+0000][1][safepoint    ] Application time: 0.1121564 seconds
+[2019-12-21T15:23:20.444+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002084 seconds, Stopping threads took: 0.0000248 seconds
+[2019-12-21T15:23:20.508+0000][1][safepoint    ] Application time: 0.0612676 seconds
+[2019-12-21T15:23:20.509+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001774 seconds, Stopping threads took: 0.0000086 seconds
+[2019-12-21T15:23:20.577+0000][1][safepoint    ] Application time: 0.0679266 seconds
+[2019-12-21T15:23:20.578+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000748 seconds, Stopping threads took: 0.0000281 seconds
+[2019-12-21T15:23:20.580+0000][1][safepoint    ] Application time: 0.0023335 seconds
+[2019-12-21T15:23:20.581+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000887 seconds, Stopping threads took: 0.0000058 seconds
+[2019-12-21T15:23:20.600+0000][1][safepoint    ] Application time: 0.0184634 seconds
+[2019-12-21T15:23:20.601+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004713 seconds, Stopping threads took: 0.0000091 seconds
+[2019-12-21T15:23:20.612+0000][1][safepoint    ] Application time: 0.0105264 seconds
+[2019-12-21T15:23:20.612+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001304 seconds, Stopping threads took: 0.0000064 seconds
+[2019-12-21T15:23:20.864+0000][1][safepoint    ] Application time: 0.2519179 seconds
+[2019-12-21T15:23:20.866+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004496 seconds, Stopping threads took: 0.0000126 seconds
+[2019-12-21T15:23:21.272+0000][1][safepoint    ] Application time: 0.4063543 seconds
+[2019-12-21T15:23:21.273+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002524 seconds, Stopping threads took: 0.0000660 seconds
+[2019-12-21T15:23:21.323+0000][1][safepoint    ] Application time: 0.0495097 seconds
+[2019-12-21T15:23:21.324+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001461 seconds, Stopping threads took: 0.0000075 seconds
+[2019-12-21T15:23:21.468+0000][1][safepoint    ] Application time: 0.1434259 seconds
+[2019-12-21T15:23:21.470+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0011975 seconds, Stopping threads took: 0.0000124 seconds
+[2019-12-21T15:23:21.484+0000][1][safepoint    ] Application time: 0.0135101 seconds
+[2019-12-21T15:23:21.485+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001444 seconds, Stopping threads took: 0.0000079 seconds
+[2019-12-21T15:23:21.510+0000][1][safepoint    ] Application time: 0.0247593 seconds
+[2019-12-21T15:23:21.514+0000][1][gc,start     ] GC(4) Pause Initial Mark
+[2019-12-21T15:23:21.602+0000][1][gc           ] GC(4) Pause Initial Mark 264M->264M(990M) 88.361ms
+[2019-12-21T15:23:21.602+0000][1][gc,cpu       ] GC(4) User=0.36s Sys=0.00s Real=0.09s
+[2019-12-21T15:23:21.603+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0925178 seconds, Stopping threads took: 0.0031494 seconds
+[2019-12-21T15:23:21.603+0000][1][gc           ] GC(4) Concurrent Mark
+[2019-12-21T15:23:21.607+0000][1][gc           ] GC(4) Concurrent Mark 3.919ms
+[2019-12-21T15:23:21.608+0000][1][gc,cpu       ] GC(4) User=0.01s Sys=0.00s Real=0.01s
+[2019-12-21T15:23:21.608+0000][1][gc           ] GC(4) Concurrent Preclean
+[2019-12-21T15:23:21.610+0000][1][gc           ] GC(4) Concurrent Preclean 1.655ms
+[2019-12-21T15:23:21.610+0000][1][gc,cpu       ] GC(4) User=0.00s Sys=0.00s Real=0.00s
+[2019-12-21T15:23:21.611+0000][1][gc           ] GC(4) Concurrent Abortable Preclean
+[2019-12-21T15:23:21.614+0000][1][safepoint    ] Application time: 0.0110874 seconds
+[2019-12-21T15:23:21.619+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0038781 seconds, Stopping threads took: 0.0038103 seconds
+[2019-12-21T15:23:21.632+0000][1][safepoint    ] Application time: 0.0127145 seconds
+[2019-12-21T15:23:21.633+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002747 seconds, Stopping threads took: 0.0000274 seconds
+[2019-12-21T15:23:21.677+0000][1][safepoint    ] Application time: 0.0434390 seconds
+[2019-12-21T15:23:21.678+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002623 seconds, Stopping threads took: 0.0000296 seconds
+[2019-12-21T15:23:21.706+0000][1][safepoint    ] Application time: 0.0272659 seconds
+[2019-12-21T15:23:21.706+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001599 seconds, Stopping threads took: 0.0000072 seconds
+[2019-12-21T15:23:21.731+0000][1][safepoint    ] Application time: 0.0240101 seconds
+[2019-12-21T15:23:21.731+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000721 seconds, Stopping threads took: 0.0000073 seconds
+[2019-12-21T15:23:21.763+0000][1][safepoint    ] Application time: 0.0307464 seconds
+[2019-12-21T15:23:21.763+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001888 seconds, Stopping threads took: 0.0000095 seconds
+[2019-12-21T15:23:21.807+0000][1][safepoint    ] Application time: 0.0433756 seconds
+[2019-12-21T15:23:21.808+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001110 seconds, Stopping threads took: 0.0000072 seconds
+[2019-12-21T15:23:21.836+0000][1][safepoint    ] Application time: 0.0279733 seconds
+[2019-12-21T15:23:21.837+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002213 seconds, Stopping threads took: 0.0000117 seconds
+[2019-12-21T15:23:21.860+0000][1][safepoint    ] Application time: 0.0217908 seconds
+[2019-12-21T15:23:21.860+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001315 seconds, Stopping threads took: 0.0000066 seconds
+[2019-12-21T15:23:21.895+0000][1][safepoint    ] Application time: 0.0346904 seconds
+[2019-12-21T15:23:21.896+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001369 seconds, Stopping threads took: 0.0000058 seconds
+[2019-12-21T15:23:21.933+0000][1][safepoint    ] Application time: 0.0368150 seconds
+[2019-12-21T15:23:21.934+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003194 seconds, Stopping threads took: 0.0000060 seconds
+[2019-12-21T15:23:21.935+0000][1][safepoint    ] Application time: 0.0001964 seconds
+[2019-12-21T15:23:21.935+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000449 seconds, Stopping threads took: 0.0000047 seconds
+[2019-12-21T15:23:21.936+0000][1][safepoint    ] Application time: 0.0002286 seconds
+[2019-12-21T15:23:21.936+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000422 seconds, Stopping threads took: 0.0000044 seconds
+[2019-12-21T15:23:21.937+0000][1][safepoint    ] Application time: 0.0002198 seconds
+[2019-12-21T15:23:21.937+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000783 seconds, Stopping threads took: 0.0000147 seconds
+[2019-12-21T15:23:21.938+0000][1][safepoint    ] Application time: 0.0003219 seconds
+[2019-12-21T15:23:21.938+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000616 seconds, Stopping threads took: 0.0000040 seconds
+[2019-12-21T15:23:21.951+0000][1][safepoint    ] Application time: 0.0119110 seconds
+[2019-12-21T15:23:21.951+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001293 seconds, Stopping threads took: 0.0000063 seconds
+[2019-12-21T15:23:21.994+0000][1][safepoint    ] Application time: 0.0425422 seconds
+[2019-12-21T15:23:21.995+0000][1][gc,start     ] GC(5) Pause Young (Allocation Failure)
+[2019-12-21T15:23:21.995+0000][1][gc,task      ] GC(5) Using 4 workers of 4 for evacuation
+[2019-12-21T15:23:22.068+0000][1][gc,age       ] GC(5) Desired survivor size 17432576 bytes, new threshold 1 (max threshold 6)
+[2019-12-21T15:23:22.069+0000][1][gc,age       ] GC(5) Age table with threshold 1 (max threshold 6)
+[2019-12-21T15:23:22.069+0000][1][gc,age       ] GC(5) - age   1:   18566216 bytes,   18566216 total
+[2019-12-21T15:23:22.070+0000][1][gc,age       ] GC(5) - age   2:   12129952 bytes,   30696168 total
+[2019-12-21T15:23:22.070+0000][1][gc,age       ] GC(5) - age   3:    3945776 bytes,   34641944 total
+[2019-12-21T15:23:22.071+0000][1][gc,heap      ] GC(5) ParNew: 304660K->34048K(306688K)
+[2019-12-21T15:23:22.071+0000][1][gc,heap      ] GC(5) CMS: 0K->12045K(707840K)
+[2019-12-21T15:23:22.072+0000][1][gc,metaspace ] GC(5) Metaspace: 52409K->52409K(1097728K)
+[2019-12-21T15:23:22.072+0000][1][gc           ] GC(5) Pause Young (Allocation Failure) 297M->45M(990M) 77.134ms
+[2019-12-21T15:23:22.072+0000][1][gc,cpu       ] GC(5) User=0.24s Sys=0.01s Real=0.08s
+[2019-12-21T15:23:22.073+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0781357 seconds, Stopping threads took: 0.0001677 seconds
+[2019-12-21T15:23:22.074+0000][1][safepoint    ] Application time: 0.0009260 seconds
+[2019-12-21T15:23:22.075+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001746 seconds, Stopping threads took: 0.0000398 seconds
+[2019-12-21T15:23:22.080+0000][1][safepoint    ] Application time: 0.0046972 seconds
+[2019-12-21T15:23:22.081+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001395 seconds, Stopping threads took: 0.0000063 seconds
+[2019-12-21T15:23:22.081+0000][1][safepoint    ] Application time: 0.0001921 seconds
+[2019-12-21T15:23:22.082+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000758 seconds, Stopping threads took: 0.0000187 seconds
+[2019-12-21T15:23:22.083+0000][1][safepoint    ] Application time: 0.0007176 seconds
+[2019-12-21T15:23:22.084+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003147 seconds, Stopping threads took: 0.0002228 seconds
+[2019-12-21T15:23:22.086+0000][1][safepoint    ] Application time: 0.0015304 seconds
+[2019-12-21T15:23:22.087+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000823 seconds, Stopping threads took: 0.0000098 seconds
+[2019-12-21T15:23:22.088+0000][1][safepoint    ] Application time: 0.0004510 seconds
+[2019-12-21T15:23:22.089+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000649 seconds, Stopping threads took: 0.0000173 seconds
+[2019-12-21T15:23:22.090+0000][1][safepoint    ] Application time: 0.0001197 seconds
+[2019-12-21T15:23:22.090+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000681 seconds, Stopping threads took: 0.0000054 seconds
+[2019-12-21T15:23:22.091+0000][1][safepoint    ] Application time: 0.0000967 seconds
+[2019-12-21T15:23:22.091+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000763 seconds, Stopping threads took: 0.0000054 seconds
+[2019-12-21T15:23:22.092+0000][1][safepoint    ] Application time: 0.0000977 seconds
+[2019-12-21T15:23:22.092+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000676 seconds, Stopping threads took: 0.0000063 seconds
+[2019-12-21T15:23:22.092+0000][1][safepoint    ] Application time: 0.0001253 seconds
+[2019-12-21T15:23:22.093+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000705 seconds, Stopping threads took: 0.0000055 seconds
+[2019-12-21T15:23:22.093+0000][1][safepoint    ] Application time: 0.0001360 seconds
+[2019-12-21T15:23:22.093+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000490 seconds, Stopping threads took: 0.0000033 seconds
+[2019-12-21T15:23:22.094+0000][1][safepoint    ] Application time: 0.0001763 seconds
+[2019-12-21T15:23:22.094+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000608 seconds, Stopping threads took: 0.0000044 seconds
+[2019-12-21T15:23:22.095+0000][1][safepoint    ] Application time: 0.0001413 seconds
+[2019-12-21T15:23:22.095+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000623 seconds, Stopping threads took: 0.0000061 seconds
+[2019-12-21T15:23:22.096+0000][1][safepoint    ] Application time: 0.0001648 seconds
+[2019-12-21T15:23:22.096+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000572 seconds, Stopping threads took: 0.0000054 seconds
+[2019-12-21T15:23:22.097+0000][1][safepoint    ] Application time: 0.0001390 seconds
+[2019-12-21T15:23:22.097+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000553 seconds, Stopping threads took: 0.0000046 seconds
+[2019-12-21T15:23:22.098+0000][1][safepoint    ] Application time: 0.0001362 seconds
+[2019-12-21T15:23:22.098+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001064 seconds, Stopping threads took: 0.0000042 seconds
+[2019-12-21T15:23:22.098+0000][1][safepoint    ] Application time: 0.0002206 seconds
+[2019-12-21T15:23:22.099+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000603 seconds, Stopping threads took: 0.0000039 seconds
+[2019-12-21T15:23:22.099+0000][1][safepoint    ] Application time: 0.0002279 seconds
+[2019-12-21T15:23:22.100+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000402 seconds, Stopping threads took: 0.0000035 seconds
+[2019-12-21T15:23:22.103+0000][1][safepoint    ] Application time: 0.0029502 seconds
+[2019-12-21T15:23:22.103+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000815 seconds, Stopping threads took: 0.0000282 seconds
+[2019-12-21T15:23:22.105+0000][1][safepoint    ] Application time: 0.0000392 seconds
+[2019-12-21T15:23:22.105+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000860 seconds, Stopping threads took: 0.0000075 seconds
+[2019-12-21T15:23:22.108+0000][1][safepoint    ] Application time: 0.0020516 seconds
+[2019-12-21T15:23:22.110+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003429 seconds, Stopping threads took: 0.0000630 seconds
+[2019-12-21T15:23:22.112+0000][1][safepoint    ] Application time: 0.0010532 seconds
+[2019-12-21T15:23:22.112+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001743 seconds, Stopping threads took: 0.0000089 seconds
+[2019-12-21T15:23:22.116+0000][1][safepoint    ] Application time: 0.0032156 seconds
+[2019-12-21T15:23:22.117+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001893 seconds, Stopping threads took: 0.0001109 seconds
+[2019-12-21T15:23:22.118+0000][1][safepoint    ] Application time: 0.0003835 seconds
+[2019-12-21T15:23:22.119+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003083 seconds, Stopping threads took: 0.0002399 seconds
+[2019-12-21T15:23:22.120+0000][1][safepoint    ] Application time: 0.0006450 seconds
+[2019-12-21T15:23:22.120+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001213 seconds, Stopping threads took: 0.0000404 seconds
+[2019-12-21T15:23:22.121+0000][1][safepoint    ] Application time: 0.0003033 seconds
+[2019-12-21T15:23:22.122+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001312 seconds, Stopping threads took: 0.0000132 seconds
+[2019-12-21T15:23:22.123+0000][1][safepoint    ] Application time: 0.0004639 seconds
+[2019-12-21T15:23:22.123+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002579 seconds, Stopping threads took: 0.0001667 seconds
+[2019-12-21T15:23:22.124+0000][1][safepoint    ] Application time: 0.0002840 seconds
+[2019-12-21T15:23:22.126+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004576 seconds, Stopping threads took: 0.0003394 seconds
+[2019-12-21T15:23:22.126+0000][1][safepoint    ] Application time: 0.0002693 seconds
+[2019-12-21T15:23:22.127+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001887 seconds, Stopping threads took: 0.0000895 seconds
+[2019-12-21T15:23:22.128+0000][1][safepoint    ] Application time: 0.0009686 seconds
+[2019-12-21T15:23:22.129+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002002 seconds, Stopping threads took: 0.0000923 seconds
+[2019-12-21T15:23:22.130+0000][1][safepoint    ] Application time: 0.0006154 seconds
+[2019-12-21T15:23:22.131+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000919 seconds, Stopping threads took: 0.0000432 seconds
+[2019-12-21T15:23:22.132+0000][1][safepoint    ] Application time: 0.0003506 seconds
+[2019-12-21T15:23:22.132+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002021 seconds, Stopping threads took: 0.0001460 seconds
+[2019-12-21T15:23:22.133+0000][1][safepoint    ] Application time: 0.0006200 seconds
+[2019-12-21T15:23:22.134+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000943 seconds, Stopping threads took: 0.0000409 seconds
+[2019-12-21T15:23:22.135+0000][1][safepoint    ] Application time: 0.0007342 seconds
+[2019-12-21T15:23:22.136+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003683 seconds, Stopping threads took: 0.0003028 seconds
+[2019-12-21T15:23:22.136+0000][1][safepoint    ] Application time: 0.0003718 seconds
+[2019-12-21T15:23:22.137+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002990 seconds, Stopping threads took: 0.0002264 seconds
+[2019-12-21T15:23:22.138+0000][1][safepoint    ] Application time: 0.0003733 seconds
+[2019-12-21T15:23:22.139+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003900 seconds, Stopping threads took: 0.0000930 seconds
+[2019-12-21T15:23:22.140+0000][1][safepoint    ] Application time: 0.0004752 seconds
+[2019-12-21T15:23:22.140+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003094 seconds, Stopping threads took: 0.0002021 seconds
+[2019-12-21T15:23:22.142+0000][1][safepoint    ] Application time: 0.0014951 seconds
+[2019-12-21T15:23:22.143+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0006119 seconds, Stopping threads took: 0.0005377 seconds
+[2019-12-21T15:23:22.144+0000][1][safepoint    ] Application time: 0.0001898 seconds
+[2019-12-21T15:23:22.145+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001247 seconds, Stopping threads took: 0.0000032 seconds
+[2019-12-21T15:23:22.145+0000][1][safepoint    ] Application time: 0.0001896 seconds
+[2019-12-21T15:23:22.146+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002123 seconds, Stopping threads took: 0.0000041 seconds
+[2019-12-21T15:23:22.146+0000][1][safepoint    ] Application time: 0.0001920 seconds
+[2019-12-21T15:23:22.147+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001222 seconds, Stopping threads took: 0.0000044 seconds
+[2019-12-21T15:23:22.156+0000][1][safepoint    ] Application time: 0.0089695 seconds
+[2019-12-21T15:23:22.157+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002094 seconds, Stopping threads took: 0.0000916 seconds
+[2019-12-21T15:23:22.181+0000][1][safepoint    ] Application time: 0.0233058 seconds
+[2019-12-21T15:23:22.181+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001357 seconds, Stopping threads took: 0.0000397 seconds
+[2019-12-21T15:23:22.223+0000][1][safepoint    ] Application time: 0.0410966 seconds
+[2019-12-21T15:23:22.223+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002164 seconds, Stopping threads took: 0.0000376 seconds
+[2019-12-21T15:23:22.255+0000][1][safepoint    ] Application time: 0.0311548 seconds
+[2019-12-21T15:23:22.256+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001459 seconds, Stopping threads took: 0.0000060 seconds
+[2019-12-21T15:23:22.293+0000][1][safepoint    ] Application time: 0.0373806 seconds
+[2019-12-21T15:23:22.294+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001687 seconds, Stopping threads took: 0.0000063 seconds
+[2019-12-21T15:23:22.299+0000][1][safepoint    ] Application time: 0.0043799 seconds
+[2019-12-21T15:23:22.299+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000606 seconds, Stopping threads took: 0.0000066 seconds
+[2019-12-21T15:23:22.300+0000][1][safepoint    ] Application time: 0.0005283 seconds
+[2019-12-21T15:23:22.300+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000498 seconds, Stopping threads took: 0.0000049 seconds
+[2019-12-21T15:23:22.301+0000][1][safepoint    ] Application time: 0.0001945 seconds
+[2019-12-21T15:23:22.301+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000178 seconds, Stopping threads took: 0.0000025 seconds
+[2019-12-21T15:23:22.323+0000][1][safepoint    ] Application time: 0.0210957 seconds
+[2019-12-21T15:23:22.323+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001951 seconds, Stopping threads took: 0.0000105 seconds
+[2019-12-21T15:23:22.342+0000][1][safepoint    ] Application time: 0.0184430 seconds
+[2019-12-21T15:23:22.343+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001571 seconds, Stopping threads took: 0.0000072 seconds
+[2019-12-21T15:23:22.362+0000][1][safepoint    ] Application time: 0.0184791 seconds
+[2019-12-21T15:23:22.362+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001526 seconds, Stopping threads took: 0.0000066 seconds
+[2019-12-21T15:23:22.384+0000][1][safepoint    ] Application time: 0.0213527 seconds
+[2019-12-21T15:23:22.385+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001653 seconds, Stopping threads took: 0.0000076 seconds
+[2019-12-21T15:23:22.408+0000][1][safepoint    ] Application time: 0.0223290 seconds
+[2019-12-21T15:23:22.408+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001648 seconds, Stopping threads took: 0.0000063 seconds
+[2019-12-21T15:23:22.436+0000][1][safepoint    ] Application time: 0.0274626 seconds
+[2019-12-21T15:23:22.437+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000655 seconds, Stopping threads took: 0.0000060 seconds
+[2019-12-21T15:23:22.445+0000][1][safepoint    ] Application time: 0.0074450 seconds
+[2019-12-21T15:23:22.445+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002450 seconds, Stopping threads took: 0.0000070 seconds
+[2019-12-21T15:23:22.470+0000][1][safepoint    ] Application time: 0.0238733 seconds
+[2019-12-21T15:23:22.471+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001877 seconds, Stopping threads took: 0.0000106 seconds
+[2019-12-21T15:23:22.474+0000][1][safepoint    ] Application time: 0.0033050 seconds
+[2019-12-21T15:23:22.475+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000851 seconds, Stopping threads took: 0.0000384 seconds
+[2019-12-21T15:23:22.476+0000][1][safepoint    ] Application time: 0.0007066 seconds
+[2019-12-21T15:23:22.476+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000567 seconds, Stopping threads took: 0.0000103 seconds
+[2019-12-21T15:23:22.503+0000][1][safepoint    ] Application time: 0.0257775 seconds
+[2019-12-21T15:23:22.503+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001408 seconds, Stopping threads took: 0.0000067 seconds
+[2019-12-21T15:23:22.548+0000][1][safepoint    ] Application time: 0.0443296 seconds
+[2019-12-21T15:23:22.549+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001330 seconds, Stopping threads took: 0.0000063 seconds
+[2019-12-21T15:23:22.635+0000][1][safepoint    ] Application time: 0.0859830 seconds
+[2019-12-21T15:23:22.636+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001982 seconds, Stopping threads took: 0.0001283 seconds
+[2019-12-21T15:23:22.640+0000][1][safepoint    ] Application time: 0.0031313 seconds
+[2019-12-21T15:23:22.641+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001299 seconds, Stopping threads took: 0.0000072 seconds
+[2019-12-21T15:23:22.656+0000][1][safepoint    ] Application time: 0.0150270 seconds
+[2019-12-21T15:23:22.657+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001424 seconds, Stopping threads took: 0.0000093 seconds
+[2019-12-21T15:23:22.685+0000][1][safepoint    ] Application time: 0.0277603 seconds
+[2019-12-21T15:23:22.686+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001404 seconds, Stopping threads took: 0.0000073 seconds
+[2019-12-21T15:23:22.712+0000][1][safepoint    ] Application time: 0.0261176 seconds
+[2019-12-21T15:23:22.713+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002229 seconds, Stopping threads took: 0.0000138 seconds
+[2019-12-21T15:23:22.740+0000][1][safepoint    ] Application time: 0.0257986 seconds
+[2019-12-21T15:23:22.741+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001336 seconds, Stopping threads took: 0.0000121 seconds
+[2019-12-21T15:23:22.809+0000][1][safepoint    ] Application time: 0.0685163 seconds
+[2019-12-21T15:23:22.810+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001675 seconds, Stopping threads took: 0.0000114 seconds
+[2019-12-21T15:23:22.852+0000][1][safepoint    ] Application time: 0.0411043 seconds
+[2019-12-21T15:23:22.852+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001490 seconds, Stopping threads took: 0.0000072 seconds
+[2019-12-21T15:23:22.887+0000][1][safepoint    ] Application time: 0.0342850 seconds
+[2019-12-21T15:23:22.889+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001390 seconds, Stopping threads took: 0.0000066 seconds
+[2019-12-21T15:23:22.907+0000][1][safepoint    ] Application time: 0.0173121 seconds
+[2019-12-21T15:23:22.907+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001479 seconds, Stopping threads took: 0.0000074 seconds
+[2019-12-21T15:23:22.951+0000][1][safepoint    ] Application time: 0.0434643 seconds
+[2019-12-21T15:23:22.952+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004563 seconds, Stopping threads took: 0.0000111 seconds
+[2019-12-21T15:23:23.002+0000][1][safepoint    ] Application time: 0.0494940 seconds
+[2019-12-21T15:23:23.003+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001583 seconds, Stopping threads took: 0.0000456 seconds
+[2019-12-21T15:23:23.025+0000][1][safepoint    ] Application time: 0.0208382 seconds
+[2019-12-21T15:23:23.026+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004473 seconds, Stopping threads took: 0.0000135 seconds
+[2019-12-21T15:23:23.057+0000][1][safepoint    ] Application time: 0.0302919 seconds
+[2019-12-21T15:23:23.057+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002057 seconds, Stopping threads took: 0.0000648 seconds
+[2019-12-21T15:23:23.119+0000][1][safepoint    ] Application time: 0.0608161 seconds
+[2019-12-21T15:23:23.119+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001771 seconds, Stopping threads took: 0.0000407 seconds
+[2019-12-21T15:23:23.120+0000][1][safepoint    ] Application time: 0.0003170 seconds
+[2019-12-21T15:23:23.121+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000759 seconds, Stopping threads took: 0.0000098 seconds
+[2019-12-21T15:23:23.122+0000][1][safepoint    ] Application time: 0.0003490 seconds
+[2019-12-21T15:23:23.122+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000733 seconds, Stopping threads took: 0.0000098 seconds
+[2019-12-21T15:23:23.130+0000][1][safepoint    ] Application time: 0.0068979 seconds
+[2019-12-21T15:23:23.130+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000524 seconds, Stopping threads took: 0.0000063 seconds
+[2019-12-21T15:23:23.145+0000][1][safepoint    ] Application time: 0.0146123 seconds
+[2019-12-21T15:23:23.146+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001381 seconds, Stopping threads took: 0.0000068 seconds
+[2019-12-21T15:23:23.183+0000][1][safepoint    ] Application time: 0.0364945 seconds
+[2019-12-21T15:23:23.184+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001746 seconds, Stopping threads took: 0.0000068 seconds
+[2019-12-21T15:23:23.234+0000][1][safepoint    ] Application time: 0.0495219 seconds
+[2019-12-21T15:23:23.235+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001456 seconds, Stopping threads took: 0.0000070 seconds
+[2019-12-21T15:23:23.343+0000][1][safepoint    ] Application time: 0.1078624 seconds
+[2019-12-21T15:23:23.345+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0011213 seconds, Stopping threads took: 0.0000060 seconds
+[2019-12-21T15:23:23.533+0000][1][safepoint    ] Application time: 0.1880994 seconds
+[2019-12-21T15:23:23.535+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0008429 seconds, Stopping threads took: 0.0000062 seconds
+[2019-12-21T15:23:23.556+0000][1][safepoint    ] Application time: 0.0208919 seconds
+[2019-12-21T15:23:23.557+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002323 seconds, Stopping threads took: 0.0000060 seconds
+[2019-12-21T15:23:23.638+0000][1][safepoint    ] Application time: 0.0806460 seconds
+[2019-12-21T15:23:23.639+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004827 seconds, Stopping threads took: 0.0002826 seconds
+[2019-12-21T15:23:23.682+0000][1][safepoint    ] Application time: 0.0430301 seconds
+[2019-12-21T15:23:23.683+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001526 seconds, Stopping threads took: 0.0000081 seconds
+[2019-12-21T15:23:23.769+0000][1][safepoint    ] Application time: 0.0857622 seconds
+[2019-12-21T15:23:23.770+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002534 seconds, Stopping threads took: 0.0000417 seconds
+[2019-12-21T15:23:23.839+0000][1][safepoint    ] Application time: 0.0687022 seconds
+[2019-12-21T15:23:23.840+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001843 seconds, Stopping threads took: 0.0000063 seconds
+[2019-12-21T15:23:23.997+0000][1][safepoint    ] Application time: 0.1568090 seconds
+[2019-12-21T15:23:23.998+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001679 seconds, Stopping threads took: 0.0000073 seconds
+[2019-12-21T15:23:24.032+0000][1][safepoint    ] Application time: 0.0337356 seconds
+[2019-12-21T15:23:24.033+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002059 seconds, Stopping threads took: 0.0000107 seconds
+[2019-12-21T15:23:24.074+0000][1][safepoint    ] Application time: 0.0395617 seconds
+[2019-12-21T15:23:24.074+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002122 seconds, Stopping threads took: 0.0000170 seconds
+[2019-12-21T15:23:24.104+0000][1][safepoint    ] Application time: 0.0292885 seconds
+[2019-12-21T15:23:24.105+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000579 seconds, Stopping threads took: 0.0000094 seconds
+[2019-12-21T15:23:24.131+0000][1][safepoint    ] Application time: 0.0252409 seconds
+[2019-12-21T15:23:24.132+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001641 seconds, Stopping threads took: 0.0000198 seconds
+[2019-12-21T15:23:24.228+0000][1][safepoint    ] Application time: 0.0951916 seconds
+[2019-12-21T15:23:24.230+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001561 seconds, Stopping threads took: 0.0000114 seconds
+[2019-12-21T15:23:24.257+0000][1][safepoint    ] Application time: 0.0271027 seconds
+[2019-12-21T15:23:24.258+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001310 seconds, Stopping threads took: 0.0000071 seconds
+[2019-12-21T15:23:24.304+0000][1][safepoint    ] Application time: 0.0451597 seconds
+[2019-12-21T15:23:24.306+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004793 seconds, Stopping threads took: 0.0000126 seconds
+[2019-12-21T15:23:24.340+0000][1][safepoint    ] Application time: 0.0329263 seconds
+[2019-12-21T15:23:24.341+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004982 seconds, Stopping threads took: 0.0000102 seconds
+[2019-12-21T15:23:24.348+0000][1][safepoint    ] Application time: 0.0064511 seconds
+[2019-12-21T15:23:24.349+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001317 seconds, Stopping threads took: 0.0000061 seconds
+[2019-12-21T15:23:24.381+0000][1][safepoint    ] Application time: 0.0315497 seconds
+[2019-12-21T15:23:24.382+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001377 seconds, Stopping threads took: 0.0000067 seconds
+[2019-12-21T15:23:24.405+0000][1][safepoint    ] Application time: 0.0229015 seconds
+[2019-12-21T15:23:24.406+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002175 seconds, Stopping threads took: 0.0000133 seconds
+[2019-12-21T15:23:24.437+0000][1][safepoint    ] Application time: 0.0306194 seconds
+[2019-12-21T15:23:24.438+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001435 seconds, Stopping threads took: 0.0000061 seconds
+[2019-12-21T15:23:24.447+0000][1][safepoint    ] Application time: 0.0093446 seconds
+[2019-12-21T15:23:24.448+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001316 seconds, Stopping threads took: 0.0000061 seconds
+[2019-12-21T15:23:24.457+0000][1][safepoint    ] Application time: 0.0081489 seconds
+[2019-12-21T15:23:24.458+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004436 seconds, Stopping threads took: 0.0000067 seconds
+[2019-12-21T15:23:24.462+0000][1][safepoint    ] Application time: 0.0036428 seconds
+[2019-12-21T15:23:24.463+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001019 seconds, Stopping threads took: 0.0000056 seconds
+[2019-12-21T15:23:24.475+0000][1][safepoint    ] Application time: 0.0124009 seconds
+[2019-12-21T15:23:24.477+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0007115 seconds, Stopping threads took: 0.0000135 seconds
+[2019-12-21T15:23:24.478+0000][1][safepoint    ] Application time: 0.0004303 seconds
+[2019-12-21T15:23:24.482+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0035638 seconds, Stopping threads took: 0.0034975 seconds
+[2019-12-21T15:23:24.483+0000][1][safepoint    ] Application time: 0.0006052 seconds
+[2019-12-21T15:23:24.483+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000634 seconds, Stopping threads took: 0.0000068 seconds
+[2019-12-21T15:23:24.485+0000][1][safepoint    ] Application time: 0.0008056 seconds
+[2019-12-21T15:23:24.485+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000630 seconds, Stopping threads took: 0.0000069 seconds
+[2019-12-21T15:23:24.493+0000][1][safepoint    ] Application time: 0.0067493 seconds
+[2019-12-21T15:23:24.493+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001779 seconds, Stopping threads took: 0.0000996 seconds
+[2019-12-21T15:23:24.494+0000][1][safepoint    ] Application time: 0.0002252 seconds
+[2019-12-21T15:23:24.494+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000741 seconds, Stopping threads took: 0.0000056 seconds
+[2019-12-21T15:23:24.495+0000][1][safepoint    ] Application time: 0.0005484 seconds
+[2019-12-21T15:23:24.496+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000478 seconds, Stopping threads took: 0.0000063 seconds
+[2019-12-21T15:23:24.497+0000][1][safepoint    ] Application time: 0.0004411 seconds
+[2019-12-21T15:23:24.497+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000566 seconds, Stopping threads took: 0.0000081 seconds
+[2019-12-21T15:23:24.498+0000][1][safepoint    ] Application time: 0.0003402 seconds
+[2019-12-21T15:23:24.498+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000406 seconds, Stopping threads took: 0.0000051 seconds
+[2019-12-21T15:23:24.499+0000][1][safepoint    ] Application time: 0.0002196 seconds
+[2019-12-21T15:23:24.500+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000415 seconds, Stopping threads took: 0.0000049 seconds
+[2019-12-21T15:23:24.500+0000][1][safepoint    ] Application time: 0.0002454 seconds
+[2019-12-21T15:23:24.501+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001111 seconds, Stopping threads took: 0.0000698 seconds
+[2019-12-21T15:23:24.501+0000][1][safepoint    ] Application time: 0.0002805 seconds
+[2019-12-21T15:23:24.502+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000619 seconds, Stopping threads took: 0.0000082 seconds
+[2019-12-21T15:23:24.503+0000][1][safepoint    ] Application time: 0.0001954 seconds
+[2019-12-21T15:23:24.503+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001367 seconds, Stopping threads took: 0.0000072 seconds
+[2019-12-21T15:23:24.504+0000][1][safepoint    ] Application time: 0.0002191 seconds
+[2019-12-21T15:23:24.504+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000437 seconds, Stopping threads took: 0.0000048 seconds
+[2019-12-21T15:23:24.505+0000][1][safepoint    ] Application time: 0.0001940 seconds
+[2019-12-21T15:23:24.505+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000371 seconds, Stopping threads took: 0.0000041 seconds
+[2019-12-21T15:23:24.506+0000][1][safepoint    ] Application time: 0.0007015 seconds
+[2019-12-21T15:23:24.507+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000357 seconds, Stopping threads took: 0.0000058 seconds
+[2019-12-21T15:23:24.507+0000][1][safepoint    ] Application time: 0.0001653 seconds
+[2019-12-21T15:23:24.508+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000319 seconds, Stopping threads took: 0.0000037 seconds
+[2019-12-21T15:23:24.508+0000][1][safepoint    ] Application time: 0.0001367 seconds
+[2019-12-21T15:23:24.508+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000322 seconds, Stopping threads took: 0.0000039 seconds
+[2019-12-21T15:23:24.510+0000][1][safepoint    ] Application time: 0.0010313 seconds
+[2019-12-21T15:23:24.510+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000423 seconds, Stopping threads took: 0.0000048 seconds
+[2019-12-21T15:23:24.510+0000][1][safepoint    ] Application time: 0.0001265 seconds
+[2019-12-21T15:23:24.511+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000335 seconds, Stopping threads took: 0.0000041 seconds
+[2019-12-21T15:23:24.513+0000][1][safepoint    ] Application time: 0.0025132 seconds
+[2019-12-21T15:23:24.514+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001306 seconds, Stopping threads took: 0.0000121 seconds
+[2019-12-21T15:23:24.515+0000][1][safepoint    ] Application time: 0.0006296 seconds
+[2019-12-21T15:23:24.516+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0007073 seconds, Stopping threads took: 0.0000100 seconds
+[2019-12-21T15:23:24.575+0000][1][safepoint    ] Application time: 0.0584717 seconds
+[2019-12-21T15:23:24.577+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0016267 seconds, Stopping threads took: 0.0000131 seconds
+[2019-12-21T15:23:24.642+0000][1][safepoint    ] Application time: 0.0636510 seconds
+[2019-12-21T15:23:24.642+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002293 seconds, Stopping threads took: 0.0001559 seconds
+[2019-12-21T15:23:24.643+0000][1][safepoint    ] Application time: 0.0001798 seconds
+[2019-12-21T15:23:24.644+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002553 seconds, Stopping threads took: 0.0001936 seconds
+[2019-12-21T15:23:24.647+0000][1][safepoint    ] Application time: 0.0019737 seconds
+[2019-12-21T15:23:24.648+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0005693 seconds, Stopping threads took: 0.0003717 seconds
+[2019-12-21T15:23:24.649+0000][1][gc           ] GC(4) Concurrent Abortable Preclean 3038.049ms
+[2019-12-21T15:23:24.650+0000][1][gc,cpu       ] GC(4) User=8.40s Sys=0.75s Real=3.04s
+[2019-12-21T15:23:24.650+0000][1][safepoint    ] Application time: 0.0018206 seconds
+[2019-12-21T15:23:24.651+0000][1][gc,start     ] GC(4) Pause Remark
+[2019-12-21T15:23:24.731+0000][1][gc           ] GC(4) Pause Remark 181M->181M(990M) 79.762ms
+[2019-12-21T15:23:24.732+0000][1][gc,cpu       ] GC(4) User=0.21s Sys=0.00s Real=0.08s
+[2019-12-21T15:23:24.732+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0813922 seconds, Stopping threads took: 0.0002541 seconds
+[2019-12-21T15:23:24.733+0000][1][gc           ] GC(4) Concurrent Sweep
+[2019-12-21T15:23:24.736+0000][1][safepoint    ] Application time: 0.0035348 seconds
+[2019-12-21T15:23:24.737+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001828 seconds, Stopping threads took: 0.0000138 seconds
+[2019-12-21T15:23:24.738+0000][1][safepoint    ] Application time: 0.0008824 seconds
+[2019-12-21T15:23:24.739+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001715 seconds, Stopping threads took: 0.0000567 seconds
+[2019-12-21T15:23:24.741+0000][1][safepoint    ] Application time: 0.0016370 seconds
+[2019-12-21T15:23:24.742+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001012 seconds, Stopping threads took: 0.0000383 seconds
+[2019-12-21T15:23:24.745+0000][1][gc           ] GC(4) Concurrent Sweep 12.119ms
+[2019-12-21T15:23:24.746+0000][1][gc,cpu       ] GC(4) User=0.01s Sys=0.01s Real=0.02s
+[2019-12-21T15:23:24.747+0000][1][safepoint    ] Application time: 0.0048602 seconds
+[2019-12-21T15:23:24.748+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001746 seconds, Stopping threads took: 0.0000083 seconds
+[2019-12-21T15:23:24.748+0000][1][gc           ] GC(4) Concurrent Reset
+[2019-12-21T15:23:24.750+0000][1][gc           ] GC(4) Concurrent Reset 1.431ms
+[2019-12-21T15:23:24.750+0000][1][gc,cpu       ] GC(4) User=0.00s Sys=0.00s Real=0.00s
+[2019-12-21T15:23:24.751+0000][1][gc,heap      ] GC(4) Old: 0K->12045K(707840K)
+[2019-12-21T15:23:24.754+0000][1][safepoint    ] Application time: 0.0057883 seconds
+[2019-12-21T15:23:24.754+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001063 seconds, Stopping threads took: 0.0000088 seconds
+[2019-12-21T15:23:24.755+0000][1][safepoint    ] Application time: 0.0002159 seconds
+[2019-12-21T15:23:24.756+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000991 seconds, Stopping threads took: 0.0000419 seconds
+[2019-12-21T15:23:24.759+0000][1][safepoint    ] Application time: 0.0030334 seconds
+[2019-12-21T15:23:24.760+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003278 seconds, Stopping threads took: 0.0002723 seconds
+[2019-12-21T15:23:24.760+0000][1][safepoint    ] Application time: 0.0002574 seconds
+[2019-12-21T15:23:24.761+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001734 seconds, Stopping threads took: 0.0001085 seconds
+[2019-12-21T15:23:24.762+0000][1][safepoint    ] Application time: 0.0008983 seconds
+[2019-12-21T15:23:24.763+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001103 seconds, Stopping threads took: 0.0000318 seconds
+[2019-12-21T15:23:24.766+0000][1][safepoint    ] Application time: 0.0031395 seconds
+[2019-12-21T15:23:24.767+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001309 seconds, Stopping threads took: 0.0000657 seconds
+[2019-12-21T15:23:24.768+0000][1][safepoint    ] Application time: 0.0004251 seconds
+[2019-12-21T15:23:24.769+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000891 seconds, Stopping threads took: 0.0000103 seconds
+[2019-12-21T15:23:24.771+0000][1][safepoint    ] Application time: 0.0020067 seconds
+[2019-12-21T15:23:24.776+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0041176 seconds, Stopping threads took: 0.0039576 seconds
+[2019-12-21T15:23:24.779+0000][1][safepoint    ] Application time: 0.0024456 seconds
+[2019-12-21T15:23:24.779+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000659 seconds, Stopping threads took: 0.0000111 seconds
+[2019-12-21T15:23:24.780+0000][1][safepoint    ] Application time: 0.0002468 seconds
+[2019-12-21T15:23:24.780+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001377 seconds, Stopping threads took: 0.0000842 seconds
+[2019-12-21T15:23:24.781+0000][1][safepoint    ] Application time: 0.0007193 seconds
+[2019-12-21T15:23:24.782+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002568 seconds, Stopping threads took: 0.0002043 seconds
+[2019-12-21T15:23:24.783+0000][1][safepoint    ] Application time: 0.0009621 seconds
+[2019-12-21T15:23:24.784+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004499 seconds, Stopping threads took: 0.0003375 seconds
+[2019-12-21T15:23:24.785+0000][1][safepoint    ] Application time: 0.0002704 seconds
+[2019-12-21T15:23:24.786+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002768 seconds, Stopping threads took: 0.0000119 seconds
+[2019-12-21T15:23:24.787+0000][1][safepoint    ] Application time: 0.0002992 seconds
+[2019-12-21T15:23:24.787+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001386 seconds, Stopping threads took: 0.0000676 seconds
+[2019-12-21T15:23:24.790+0000][1][safepoint    ] Application time: 0.0025379 seconds
+[2019-12-21T15:23:24.791+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004315 seconds, Stopping threads took: 0.0001468 seconds
+[2019-12-21T15:23:24.792+0000][1][safepoint    ] Application time: 0.0002696 seconds
+[2019-12-21T15:23:24.793+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002905 seconds, Stopping threads took: 0.0002164 seconds
+[2019-12-21T15:23:24.793+0000][1][safepoint    ] Application time: 0.0004815 seconds
+[2019-12-21T15:23:24.798+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0040008 seconds, Stopping threads took: 0.0038565 seconds
+[2019-12-21T15:23:24.800+0000][1][safepoint    ] Application time: 0.0018623 seconds
+[2019-12-21T15:23:24.802+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002989 seconds, Stopping threads took: 0.0000191 seconds
+[2019-12-21T15:23:24.804+0000][1][safepoint    ] Application time: 0.0008375 seconds
+[2019-12-21T15:23:24.805+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002003 seconds, Stopping threads took: 0.0000229 seconds
+[2019-12-21T15:23:24.805+0000][1][safepoint    ] Application time: 0.0003334 seconds
+[2019-12-21T15:23:24.806+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003308 seconds, Stopping threads took: 0.0002601 seconds
+[2019-12-21T15:23:24.807+0000][1][safepoint    ] Application time: 0.0004755 seconds
+[2019-12-21T15:23:24.808+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003520 seconds, Stopping threads took: 0.0002714 seconds
+[2019-12-21T15:23:24.817+0000][1][safepoint    ] Application time: 0.0085127 seconds
+[2019-12-21T15:23:24.818+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002725 seconds, Stopping threads took: 0.0000232 seconds
+[2019-12-21T15:23:24.819+0000][1][safepoint    ] Application time: 0.0002664 seconds
+[2019-12-21T15:23:24.820+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001920 seconds, Stopping threads took: 0.0000909 seconds
+[2019-12-21T15:23:24.821+0000][1][safepoint    ] Application time: 0.0003306 seconds
+[2019-12-21T15:23:24.821+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003915 seconds, Stopping threads took: 0.0002776 seconds
+[2019-12-21T15:23:24.822+0000][1][safepoint    ] Application time: 0.0001407 seconds
+[2019-12-21T15:23:24.823+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0005275 seconds, Stopping threads took: 0.0003743 seconds
+[2019-12-21T15:23:24.824+0000][1][safepoint    ] Application time: 0.0001532 seconds
+[2019-12-21T15:23:24.825+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001708 seconds, Stopping threads took: 0.0000361 seconds
+[2019-12-21T15:23:24.830+0000][1][safepoint    ] Application time: 0.0040791 seconds
+[2019-12-21T15:23:24.830+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001152 seconds, Stopping threads took: 0.0000374 seconds
+[2019-12-21T15:23:24.831+0000][1][safepoint    ] Application time: 0.0002752 seconds
+[2019-12-21T15:23:24.832+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001521 seconds, Stopping threads took: 0.0000142 seconds
+[2019-12-21T15:23:24.843+0000][1][safepoint    ] Application time: 0.0106292 seconds
+[2019-12-21T15:23:24.846+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0022585 seconds, Stopping threads took: 0.0021775 seconds
+[2019-12-21T15:23:24.847+0000][1][safepoint    ] Application time: 0.0004315 seconds
+[2019-12-21T15:23:24.848+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0007196 seconds, Stopping threads took: 0.0006270 seconds
+[2019-12-21T15:23:24.849+0000][1][safepoint    ] Application time: 0.0008861 seconds
+[2019-12-21T15:23:24.850+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0006607 seconds, Stopping threads took: 0.0006056 seconds
+[2019-12-21T15:23:24.855+0000][1][safepoint    ] Application time: 0.0039505 seconds
+[2019-12-21T15:23:24.860+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0044180 seconds, Stopping threads took: 0.0042893 seconds
+[2019-12-21T15:23:24.864+0000][1][safepoint    ] Application time: 0.0037886 seconds
+[2019-12-21T15:23:24.869+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0042464 seconds, Stopping threads took: 0.0041357 seconds
+[2019-12-21T15:23:24.872+0000][1][safepoint    ] Application time: 0.0026613 seconds
+[2019-12-21T15:23:24.874+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0012575 seconds, Stopping threads took: 0.0011560 seconds
+[2019-12-21T15:23:24.875+0000][1][safepoint    ] Application time: 0.0006621 seconds
+[2019-12-21T15:23:24.876+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0008647 seconds, Stopping threads took: 0.0007573 seconds
+[2019-12-21T15:23:24.883+0000][1][safepoint    ] Application time: 0.0060282 seconds
+[2019-12-21T15:23:24.887+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0037288 seconds, Stopping threads took: 0.0036364 seconds
+[2019-12-21T15:23:24.889+0000][1][safepoint    ] Application time: 0.0010306 seconds
+[2019-12-21T15:23:24.890+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004279 seconds, Stopping threads took: 0.0003499 seconds
+[2019-12-21T15:23:24.891+0000][1][safepoint    ] Application time: 0.0010445 seconds
+[2019-12-21T15:23:24.892+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001088 seconds, Stopping threads took: 0.0000398 seconds
+[2019-12-21T15:23:24.904+0000][1][safepoint    ] Application time: 0.0010544 seconds
+[2019-12-21T15:23:24.910+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001307 seconds, Stopping threads took: 0.0000546 seconds
+[2019-12-21T15:23:24.928+0000][1][safepoint    ] Application time: 0.0176444 seconds
+[2019-12-21T15:23:24.931+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0005594 seconds, Stopping threads took: 0.0003894 seconds
+[2019-12-21T15:23:24.933+0000][1][safepoint    ] Application time: 0.0002277 seconds
+[2019-12-21T15:23:24.936+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0025894 seconds, Stopping threads took: 0.0001211 seconds
+[2019-12-21T15:23:24.947+0000][1][safepoint    ] Application time: 0.0086162 seconds
+[2019-12-21T15:23:24.947+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001744 seconds, Stopping threads took: 0.0000992 seconds
+[2019-12-21T15:23:24.949+0000][1][safepoint    ] Application time: 0.0013111 seconds
+[2019-12-21T15:23:24.953+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0027220 seconds, Stopping threads took: 0.0026567 seconds
+[2019-12-21T15:23:24.971+0000][1][safepoint    ] Application time: 0.0172993 seconds
+[2019-12-21T15:23:24.972+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001164 seconds, Stopping threads took: 0.0000209 seconds
+[2019-12-21T15:23:24.973+0000][1][safepoint    ] Application time: 0.0002911 seconds
+[2019-12-21T15:23:24.973+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001227 seconds, Stopping threads took: 0.0000183 seconds
+[2019-12-21T15:23:25.007+0000][1][safepoint    ] Application time: 0.0326211 seconds
+[2019-12-21T15:23:25.008+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000761 seconds, Stopping threads took: 0.0000235 seconds
+[2019-12-21T15:23:25.017+0000][1][safepoint    ] Application time: 0.0076577 seconds
+[2019-12-21T15:23:25.018+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002453 seconds, Stopping threads took: 0.0000576 seconds
+[2019-12-21T15:23:25.064+0000][1][safepoint    ] Application time: 0.0451504 seconds
+[2019-12-21T15:23:25.065+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002753 seconds, Stopping threads took: 0.0001838 seconds
+[2019-12-21T15:23:25.069+0000][1][safepoint    ] Application time: 0.0040897 seconds
+[2019-12-21T15:23:25.070+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004137 seconds, Stopping threads took: 0.0003339 seconds
+[2019-12-21T15:23:25.077+0000][1][safepoint    ] Application time: 0.0056388 seconds
+[2019-12-21T15:23:25.077+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001122 seconds, Stopping threads took: 0.0000186 seconds
+[2019-12-21T15:23:25.091+0000][1][safepoint    ] Application time: 0.0135499 seconds
+[2019-12-21T15:23:25.092+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000837 seconds, Stopping threads took: 0.0000097 seconds
+[2019-12-21T15:23:25.098+0000][1][safepoint    ] Application time: 0.0049632 seconds
+[2019-12-21T15:23:25.098+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000851 seconds, Stopping threads took: 0.0000309 seconds
+[2019-12-21T15:23:25.105+0000][1][safepoint    ] Application time: 0.0058915 seconds
+[2019-12-21T15:23:25.105+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000931 seconds, Stopping threads took: 0.0000132 seconds
+[2019-12-21T15:23:25.106+0000][1][safepoint    ] Application time: 0.0001839 seconds
+[2019-12-21T15:23:25.107+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000508 seconds, Stopping threads took: 0.0000074 seconds
+[2019-12-21T15:23:25.108+0000][1][safepoint    ] Application time: 0.0012278 seconds
+[2019-12-21T15:23:25.109+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001353 seconds, Stopping threads took: 0.0000321 seconds
+[2019-12-21T15:23:25.316+0000][1][safepoint    ] Application time: 0.2063154 seconds
+[2019-12-21T15:23:25.317+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001016 seconds, Stopping threads took: 0.0000164 seconds
+[2019-12-21T15:23:25.317+0000][1][safepoint    ] Application time: 0.0001300 seconds
+[2019-12-21T15:23:25.318+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001038 seconds, Stopping threads took: 0.0000336 seconds
+[2019-12-21T15:23:25.318+0000][1][safepoint    ] Application time: 0.0001154 seconds
+[2019-12-21T15:23:25.319+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000865 seconds, Stopping threads took: 0.0000177 seconds
+[2019-12-21T15:23:25.319+0000][1][safepoint    ] Application time: 0.0001386 seconds
+[2019-12-21T15:23:25.320+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001237 seconds, Stopping threads took: 0.0000554 seconds
+[2019-12-21T15:23:25.321+0000][1][safepoint    ] Application time: 0.0001137 seconds
+[2019-12-21T15:23:25.321+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001346 seconds, Stopping threads took: 0.0000613 seconds
+[2019-12-21T15:23:25.322+0000][1][safepoint    ] Application time: 0.0001173 seconds
+[2019-12-21T15:23:25.322+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000860 seconds, Stopping threads took: 0.0000203 seconds
+[2019-12-21T15:23:25.323+0000][1][safepoint    ] Application time: 0.0001133 seconds
+[2019-12-21T15:23:25.323+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001076 seconds, Stopping threads took: 0.0000161 seconds
+[2019-12-21T15:23:25.324+0000][1][safepoint    ] Application time: 0.0001109 seconds
+[2019-12-21T15:23:25.324+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000761 seconds, Stopping threads took: 0.0000158 seconds
+[2019-12-21T15:23:25.756+0000][1][safepoint    ] Application time: 0.4312502 seconds
+[2019-12-21T15:23:25.771+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001316 seconds, Stopping threads took: 0.0000205 seconds
+[2019-12-21T15:23:25.777+0000][1][safepoint    ] Application time: 0.0048518 seconds
+[2019-12-21T15:23:25.784+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0060710 seconds, Stopping threads took: 0.0059583 seconds
+[2019-12-21T15:23:25.788+0000][1][safepoint    ] Application time: 0.0006613 seconds
+[2019-12-21T15:23:25.796+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001598 seconds, Stopping threads took: 0.0000222 seconds
+[2019-12-21T15:23:25.799+0000][1][safepoint    ] Application time: 0.0022990 seconds
+[2019-12-21T15:23:25.801+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001375 seconds, Stopping threads took: 0.0000209 seconds
+[2019-12-21T15:23:25.802+0000][1][safepoint    ] Application time: 0.0003892 seconds
+[2019-12-21T15:23:25.807+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0006289 seconds, Stopping threads took: 0.0005234 seconds
+[2019-12-21T15:23:25.808+0000][1][safepoint    ] Application time: 0.0005342 seconds
+[2019-12-21T15:23:25.809+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000976 seconds, Stopping threads took: 0.0000161 seconds
+[2019-12-21T15:23:25.811+0000][1][safepoint    ] Application time: 0.0011788 seconds
+[2019-12-21T15:23:25.811+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000902 seconds, Stopping threads took: 0.0000159 seconds
+[2019-12-21T15:23:26.753+0000][1][safepoint    ] Application time: 0.9411520 seconds
+[2019-12-21T15:23:26.755+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001406 seconds, Stopping threads took: 0.0000111 seconds
+[2019-12-21T15:23:26.756+0000][1][safepoint    ] Application time: 0.0004191 seconds
+[2019-12-21T15:23:26.757+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000890 seconds, Stopping threads took: 0.0000092 seconds
+[2019-12-21T15:23:26.758+0000][1][safepoint    ] Application time: 0.0004830 seconds
+[2019-12-21T15:23:26.759+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002789 seconds, Stopping threads took: 0.0000203 seconds
+[2019-12-21T15:23:26.759+0000][1][safepoint    ] Application time: 0.0004531 seconds
+[2019-12-21T15:23:26.760+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000733 seconds, Stopping threads took: 0.0000087 seconds
+[2019-12-21T15:23:26.763+0000][1][safepoint    ] Application time: 0.0018771 seconds
+[2019-12-21T15:23:26.764+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000798 seconds, Stopping threads took: 0.0000193 seconds
+[2019-12-21T15:23:27.752+0000][1][safepoint    ] Application time: 0.9873626 seconds
+[2019-12-21T15:23:27.753+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000890 seconds, Stopping threads took: 0.0000131 seconds
+[2019-12-21T15:23:27.754+0000][1][safepoint    ] Application time: 0.0009169 seconds
+[2019-12-21T15:23:27.755+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0004803 seconds, Stopping threads took: 0.0004415 seconds
+[2019-12-21T15:23:27.759+0000][1][safepoint    ] Application time: 0.0030869 seconds
+[2019-12-21T15:23:27.760+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000863 seconds, Stopping threads took: 0.0000314 seconds
+[2019-12-21T15:23:27.760+0000][1][safepoint    ] Application time: 0.0001206 seconds
+[2019-12-21T15:23:27.761+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000499 seconds, Stopping threads took: 0.0000044 seconds
+[2019-12-21T15:23:27.786+0000][1][safepoint    ] Application time: 0.0246592 seconds
+[2019-12-21T15:23:27.787+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000560 seconds, Stopping threads took: 0.0000091 seconds
+[2019-12-21T15:23:27.788+0000][1][safepoint    ] Application time: 0.0004774 seconds
+[2019-12-21T15:23:27.791+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000925 seconds, Stopping threads took: 0.0000286 seconds
+[2019-12-21T15:23:27.792+0000][1][safepoint    ] Application time: 0.0004940 seconds
+[2019-12-21T15:23:27.796+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0030472 seconds, Stopping threads took: 0.0029869 seconds
+[2019-12-21T15:23:27.799+0000][1][safepoint    ] Application time: 0.0029020 seconds
+[2019-12-21T15:23:27.800+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001006 seconds, Stopping threads took: 0.0000084 seconds
+[2019-12-21T15:23:27.801+0000][1][safepoint    ] Application time: 0.0002033 seconds
+[2019-12-21T15:23:27.802+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003180 seconds, Stopping threads took: 0.0002681 seconds
+[2019-12-21T15:23:27.808+0000][1][safepoint    ] Application time: 0.0053841 seconds
+[2019-12-21T15:23:27.808+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001403 seconds, Stopping threads took: 0.0000116 seconds
+[2019-12-21T15:23:27.809+0000][1][safepoint    ] Application time: 0.0004246 seconds
+[2019-12-21T15:23:27.809+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000786 seconds, Stopping threads took: 0.0000080 seconds
+[2019-12-21T15:23:27.832+0000][1][safepoint    ] Application time: 0.0220367 seconds
+[2019-12-21T15:23:27.833+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0010582 seconds, Stopping threads took: 0.0009857 seconds
+[2019-12-21T15:23:27.837+0000][1][safepoint    ] Application time: 0.0031276 seconds
+[2019-12-21T15:23:27.838+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0003165 seconds, Stopping threads took: 0.0002440 seconds
+[2019-12-21T15:23:27.848+0000][1][safepoint    ] Application time: 0.0099070 seconds
+[2019-12-21T15:23:27.849+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000537 seconds, Stopping threads took: 0.0000111 seconds
+[2019-12-21T15:23:27.850+0000][1][safepoint    ] Application time: 0.0004062 seconds
+[2019-12-21T15:23:27.850+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000394 seconds, Stopping threads took: 0.0000069 seconds
+[2019-12-21T15:23:27.851+0000][1][safepoint    ] Application time: 0.0002881 seconds
+[2019-12-21T15:23:27.852+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000509 seconds, Stopping threads took: 0.0000072 seconds
+[2019-12-21T15:23:27.852+0000][1][safepoint    ] Application time: 0.0001203 seconds
+[2019-12-21T15:23:27.853+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000301 seconds, Stopping threads took: 0.0000055 seconds
+[2019-12-21T15:23:27.853+0000][1][safepoint    ] Application time: 0.0002724 seconds
+[2019-12-21T15:23:27.853+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000297 seconds, Stopping threads took: 0.0000050 seconds
+[2019-12-21T15:23:27.855+0000][1][safepoint    ] Application time: 0.0011925 seconds
+[2019-12-21T15:23:27.855+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000397 seconds, Stopping threads took: 0.0000085 seconds
+[2019-12-21T15:23:27.856+0000][1][safepoint    ] Application time: 0.0003031 seconds
+[2019-12-21T15:23:27.856+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000284 seconds, Stopping threads took: 0.0000056 seconds
+[2019-12-21T15:23:27.860+0000][1][safepoint    ] Application time: 0.0042341 seconds
+[2019-12-21T15:23:27.861+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000563 seconds, Stopping threads took: 0.0000116 seconds
+[2019-12-21T15:23:27.862+0000][1][safepoint    ] Application time: 0.0001233 seconds
+[2019-12-21T15:23:27.862+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000334 seconds, Stopping threads took: 0.0000055 seconds
+[2019-12-21T15:23:27.919+0000][1][safepoint    ] Application time: 0.0567277 seconds
+[2019-12-21T15:23:27.920+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0006918 seconds, Stopping threads took: 0.0000196 seconds
+[2019-12-21T15:23:28.008+0000][1][safepoint    ] Application time: 0.0870782 seconds
+[2019-12-21T15:23:28.008+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001217 seconds, Stopping threads took: 0.0000114 seconds
+[2019-12-21T15:23:28.009+0000][1][safepoint    ] Application time: 0.0001633 seconds
+[2019-12-21T15:23:28.009+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000501 seconds, Stopping threads took: 0.0000180 seconds
+[2019-12-21T15:23:28.045+0000][1][safepoint    ] Application time: 0.0348176 seconds
+[2019-12-21T15:23:28.045+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000628 seconds, Stopping threads took: 0.0000132 seconds
+[2019-12-21T15:23:28.046+0000][1][safepoint    ] Application time: 0.0002371 seconds
+[2019-12-21T15:23:28.046+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000723 seconds, Stopping threads took: 0.0000218 seconds
+[2019-12-21T15:23:28.047+0000][1][safepoint    ] Application time: 0.0002371 seconds
+[2019-12-21T15:23:28.048+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000543 seconds, Stopping threads took: 0.0000251 seconds
+[2019-12-21T15:23:28.048+0000][1][safepoint    ] Application time: 0.0001561 seconds
+[2019-12-21T15:23:28.049+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000340 seconds, Stopping threads took: 0.0000066 seconds
+[2019-12-21T15:23:28.049+0000][1][safepoint    ] Application time: 0.0003446 seconds
+[2019-12-21T15:23:28.049+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000383 seconds, Stopping threads took: 0.0000069 seconds
+[2019-12-21T15:23:28.051+0000][1][safepoint    ] Application time: 0.0006081 seconds
+[2019-12-21T15:23:28.051+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000596 seconds, Stopping threads took: 0.0000239 seconds
+[2019-12-21T15:23:28.051+0000][1][safepoint    ] Application time: 0.0001325 seconds
+[2019-12-21T15:23:28.052+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0002168 seconds, Stopping threads took: 0.0000067 seconds
+[2019-12-21T15:23:28.052+0000][1][safepoint    ] Application time: 0.0001206 seconds
+[2019-12-21T15:23:28.053+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001869 seconds, Stopping threads took: 0.0000059 seconds
+[2019-12-21T15:23:28.054+0000][1][safepoint    ] Application time: 0.0011476 seconds
+[2019-12-21T15:23:28.055+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000547 seconds, Stopping threads took: 0.0000118 seconds
+[2019-12-21T15:23:28.062+0000][1][safepoint    ] Application time: 0.0071322 seconds
+[2019-12-21T15:23:28.063+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000900 seconds, Stopping threads took: 0.0000356 seconds
+[2019-12-21T15:23:28.117+0000][1][safepoint    ] Application time: 0.0536052 seconds
+[2019-12-21T15:23:28.117+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001377 seconds, Stopping threads took: 0.0000200 seconds
+[2019-12-21T15:23:28.118+0000][1][safepoint    ] Application time: 0.0001977 seconds
+[2019-12-21T15:23:28.118+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000745 seconds, Stopping threads took: 0.0000169 seconds
+[2019-12-21T15:23:28.119+0000][1][safepoint    ] Application time: 0.0004525 seconds
+[2019-12-21T15:23:28.120+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000836 seconds, Stopping threads took: 0.0000196 seconds
+[2019-12-21T15:23:28.124+0000][1][safepoint    ] Application time: 0.0041073 seconds
+[2019-12-21T15:23:28.125+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0007301 seconds, Stopping threads took: 0.0000201 seconds
+[2019-12-21T15:23:28.129+0000][1][safepoint    ] Application time: 0.0024705 seconds
+[2019-12-21T15:23:28.129+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001013 seconds, Stopping threads took: 0.0000181 seconds
+[2019-12-21T15:23:28.133+0000][1][safepoint    ] Application time: 0.0033763 seconds
+[2019-12-21T15:23:28.134+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001121 seconds, Stopping threads took: 0.0000570 seconds
+[2019-12-21T15:23:28.139+0000][1][safepoint    ] Application time: 0.0053578 seconds
+[2019-12-21T15:23:28.140+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000740 seconds, Stopping threads took: 0.0000122 seconds
+[2019-12-21T15:23:28.140+0000][1][safepoint    ] Application time: 0.0001248 seconds
+[2019-12-21T15:23:28.141+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000458 seconds, Stopping threads took: 0.0000111 seconds
+[2019-12-21T15:23:28.141+0000][1][safepoint    ] Application time: 0.0001316 seconds
+[2019-12-21T15:23:28.141+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000341 seconds, Stopping threads took: 0.0000074 seconds
+[2019-12-21T15:23:28.142+0000][1][safepoint    ] Application time: 0.0001202 seconds
+[2019-12-21T15:23:28.142+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000301 seconds, Stopping threads took: 0.0000066 seconds
+[2019-12-21T15:23:28.142+0000][1][safepoint    ] Application time: 0.0001234 seconds
+[2019-12-21T15:23:28.143+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000291 seconds, Stopping threads took: 0.0000056 seconds
+[2019-12-21T15:23:28.143+0000][1][safepoint    ] Application time: 0.0001280 seconds
+[2019-12-21T15:23:28.143+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000343 seconds, Stopping threads took: 0.0000077 seconds
+[2019-12-21T15:23:28.144+0000][1][safepoint    ] Application time: 0.0001197 seconds
+[2019-12-21T15:23:28.144+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000287 seconds, Stopping threads took: 0.0000054 seconds
+[2019-12-21T15:23:28.144+0000][1][safepoint    ] Application time: 0.0001235 seconds
+[2019-12-21T15:23:28.145+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000333 seconds, Stopping threads took: 0.0000065 seconds
+[2019-12-21T15:23:28.159+0000][1][safepoint    ] Application time: 0.0140312 seconds
+[2019-12-21T15:23:28.160+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000575 seconds, Stopping threads took: 0.0000136 seconds
+[2019-12-21T15:23:28.161+0000][1][safepoint    ] Application time: 0.0005560 seconds
+[2019-12-21T15:23:28.161+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000568 seconds, Stopping threads took: 0.0000108 seconds
+[2019-12-21T15:23:28.170+0000][1][safepoint    ] Application time: 0.0083010 seconds
+[2019-12-21T15:23:28.171+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001551 seconds, Stopping threads took: 0.0000743 seconds
+[2019-12-21T15:23:28.171+0000][1][safepoint    ] Application time: 0.0001691 seconds
+[2019-12-21T15:23:28.172+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000898 seconds, Stopping threads took: 0.0000170 seconds
+[2019-12-21T15:23:28.172+0000][1][safepoint    ] Application time: 0.0001824 seconds
+[2019-12-21T15:23:28.173+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000855 seconds, Stopping threads took: 0.0000164 seconds
+[2019-12-21T15:23:28.174+0000][1][safepoint    ] Application time: 0.0008083 seconds
+[2019-12-21T15:23:28.175+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000954 seconds, Stopping threads took: 0.0000209 seconds
+[2019-12-21T15:23:28.176+0000][1][safepoint    ] Application time: 0.0006374 seconds
+[2019-12-21T15:23:28.176+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000858 seconds, Stopping threads took: 0.0000192 seconds
+[2019-12-21T15:23:28.183+0000][1][safepoint    ] Application time: 0.0065216 seconds
+[2019-12-21T15:23:28.184+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000748 seconds, Stopping threads took: 0.0000120 seconds
+[2019-12-21T15:23:28.184+0000][1][safepoint    ] Application time: 0.0003705 seconds
+[2019-12-21T15:23:28.185+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000585 seconds, Stopping threads took: 0.0000129 seconds
+[2019-12-21T15:23:28.186+0000][1][safepoint    ] Application time: 0.0008854 seconds
+[2019-12-21T15:23:28.187+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000524 seconds, Stopping threads took: 0.0000109 seconds
+[2019-12-21T15:23:29.188+0000][1][safepoint    ] Application time: 1.0004878 seconds
+[2019-12-21T15:23:29.188+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001426 seconds, Stopping threads took: 0.0000400 seconds
+[2019-12-21T15:23:30.189+0000][1][safepoint    ] Application time: 1.0006841 seconds
+[2019-12-21T15:23:30.191+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001188 seconds, Stopping threads took: 0.0000278 seconds
+[2019-12-21T15:23:32.197+0000][1][safepoint    ] Application time: 2.0053386 seconds
+[2019-12-21T15:23:32.198+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000850 seconds, Stopping threads took: 0.0000196 seconds
+[2019-12-21T15:23:38.209+0000][1][safepoint    ] Application time: 6.0110656 seconds
+[2019-12-21T15:23:38.211+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000842 seconds, Stopping threads took: 0.0000222 seconds
+[2019-12-21T15:23:44.216+0000][1][safepoint    ] Application time: 6.0049644 seconds
+[2019-12-21T15:23:44.217+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000746 seconds, Stopping threads took: 0.0000223 seconds
+[2019-12-21T15:23:45.219+0000][1][safepoint    ] Application time: 1.0009006 seconds
+[2019-12-21T15:23:45.220+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000990 seconds, Stopping threads took: 0.0000237 seconds
+[2019-12-21T15:23:46.221+0000][1][safepoint    ] Application time: 1.0004816 seconds
+[2019-12-21T15:23:46.222+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000977 seconds, Stopping threads took: 0.0000266 seconds
+[2019-12-21T15:23:53.228+0000][1][safepoint    ] Application time: 7.0052219 seconds
+[2019-12-21T15:23:53.229+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001287 seconds, Stopping threads took: 0.0000317 seconds
+[2019-12-21T15:23:54.230+0000][1][safepoint    ] Application time: 1.0004734 seconds
+[2019-12-21T15:23:54.230+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001161 seconds, Stopping threads took: 0.0000207 seconds
+[2019-12-21T15:23:57.233+0000][1][safepoint    ] Application time: 3.0021239 seconds
+[2019-12-21T15:23:57.234+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000902 seconds, Stopping threads took: 0.0000235 seconds
+[2019-12-21T15:23:57.796+0000][1][safepoint    ] Application time: 0.5609705 seconds
+[2019-12-21T15:23:57.796+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001310 seconds, Stopping threads took: 0.0000162 seconds
+[2019-12-21T15:23:57.810+0000][1][safepoint    ] Application time: 0.0127870 seconds
+[2019-12-21T15:23:57.810+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000813 seconds, Stopping threads took: 0.0000146 seconds
+[2019-12-21T15:23:57.814+0000][1][safepoint    ] Application time: 0.0039206 seconds
+[2019-12-21T15:23:57.815+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001089 seconds, Stopping threads took: 0.0000409 seconds
+[2019-12-21T15:23:58.816+0000][1][safepoint    ] Application time: 1.0004547 seconds
+[2019-12-21T15:23:58.817+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001222 seconds, Stopping threads took: 0.0000285 seconds
+[2019-12-21T15:23:59.817+0000][1][safepoint    ] Application time: 1.0002441 seconds
+[2019-12-21T15:23:59.818+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001192 seconds, Stopping threads took: 0.0000484 seconds
+[2019-12-21T15:24:00.819+0000][1][safepoint    ] Application time: 1.0001242 seconds
+[2019-12-21T15:24:00.820+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001284 seconds, Stopping threads took: 0.0000291 seconds
+[2019-12-21T15:24:01.821+0000][1][safepoint    ] Application time: 1.0003597 seconds
+[2019-12-21T15:24:01.822+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001263 seconds, Stopping threads took: 0.0000296 seconds
+[2019-12-21T15:24:02.823+0000][1][safepoint    ] Application time: 1.0002702 seconds
+[2019-12-21T15:24:02.825+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001352 seconds, Stopping threads took: 0.0000462 seconds
+[2019-12-21T15:24:03.826+0000][1][safepoint    ] Application time: 1.0001404 seconds
+[2019-12-21T15:24:03.826+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0000799 seconds, Stopping threads took: 0.0000227 seconds

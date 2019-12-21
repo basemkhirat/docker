@@ -1,0 +1,77 @@
+version: '3'
+
+networks:
+  local_network:
+
+services:
+  php:
+    container_name: php
+    build:
+      context: .
+      dockerfile: ./containers/php/Dockerfile
+    networks:
+      - local_network
+    volumes:
+      - ./www:/www
+      - ./containers/php/config/php.ini:/usr/local/etc/php/php.ini
+      - ./containers/php/config/www.conf:/usr/local/etc/php-fpm.d/www.conf
+
+  nginx:
+    container_name: nginx
+    image: nginx:stable-alpine
+    ports:
+      - 80:80
+    volumes:
+      - ./www:/www
+      - ./containers/nginx/config/conf.d:/etc/nginx/conf.d
+      - ./containers/nginx/config/nginx.conf:/etc/nginx/nginx.conf
+      - ./containers/nginx/log:/var/log/nginx
+    depends_on:
+      - php
+      - mysql
+    networks:
+      - local_network
+
+  mysql:
+    container_name: mysql
+    image: mysql:5.7.22
+    restart: unless-stopped
+    tty: true
+    volumes:
+      - ./containers/mysql/data:/var/lib/mysql
+      - ./containers/mysql/config/my.cnf:/etc/mysql/my.cnf
+      - ./containers/mysql/log:/var/log/mysql
+    ports:
+      - 3306:3306
+    environment:
+      MYSQL_DATABASE: shmla
+      MYSQL_USER: root
+      MYSQL_PASSWORD: secret
+      MYSQL_ROOT_PASSWORD: secret
+      SERVICE_TAGS: dev
+      SERVICE_NAME: mysql
+    networks:
+      - local_network
+
+  memcached:
+    container_name: memcached
+    image: memcached:latest
+    networks:
+      - local_network
+    ports:
+      - 11211:11211
+
+  elasticsearch:
+    container_name: elasticsearch
+    image: elasticsearch:6.4.1
+    volumes:
+    - ./containers/elasticsearch/data:/usr/share/elasticsearch/data
+    - ./containers/elasticsearch/log:/usr/share/elasticsearch/logs
+    - ./containers/elasticsearch/config/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
+    - ./containers/elasticsearch/config/jvm.options:/usr/share/elasticsearch/config/jvm.options
+    networks:
+      - local_network
+    ports:
+      - 9200:9200
+      - 9300:9300
+
