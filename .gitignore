@@ -1,5 +1,3 @@
-/containers/mysql/data/*
-#/containers/mysql/log/*
-/containers/elasticsearch/data/*
-#/containers/elasticsearch/log/*
+/data/mysql/*
+/data/elasticsearch/*
 /.idea

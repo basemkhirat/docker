@@ -6,7 +6,13 @@ A template to run php apps on docker.
 
 `docker-compose.yml` is the main docker-compose file.
 
-`containers`: folder to define containers.
+`containers`: folder to define Docker files.
+
+`data` folder to store databases files.
+
+`etc` folder to modify configuration files.
+
+`log` folder to view log files.
 
 `www` folder to add PHP app.
 
