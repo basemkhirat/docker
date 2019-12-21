@@ -1370,3 +1370,25 @@
 [2019-12-21T17:35:55.933+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001160 seconds, Stopping threads took: 0.0000284 seconds
 [2019-12-21T17:36:08.946+0000][1][safepoint    ] Application time: 13.0119690 seconds
 [2019-12-21T17:36:08.947+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001152 seconds, Stopping threads took: 0.0000633 seconds
+[2019-12-21T17:36:54.939+0000][1][safepoint    ] Application time: 45.9919732 seconds
+[2019-12-21T17:36:54.940+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001666 seconds, Stopping threads took: 0.0000384 seconds
+[2019-12-21T17:37:24.978+0000][1][safepoint    ] Application time: 30.0375945 seconds
+[2019-12-21T17:37:24.979+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0001390 seconds, Stopping threads took: 0.0000586 seconds
+[2019-12-21T17:37:54.960+0000][1][safepoint    ] Application time: 29.9799027 seconds
+[2019-12-21T17:37:54.961+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0006580 seconds, Stopping threads took: 0.0000519 seconds
+[2019-12-21T17:38:04.129+0000][1][safepoint    ] Application time: 9.1676192 seconds
+[2019-12-21T17:38:04.130+0000][1][gc,start     ] GC(10) Pause Young (Allocation Failure)
+[2019-12-21T17:38:04.131+0000][1][gc,task      ] GC(10) Using 4 workers of 4 for evacuation
+[2019-12-21T17:38:04.136+0000][1][gc,age       ] GC(10) Desired survivor size 17432576 bytes, new threshold 6 (max threshold 6)
+[2019-12-21T17:38:04.137+0000][1][gc,age       ] GC(10) Age table with threshold 6 (max threshold 6)
+[2019-12-21T17:38:04.137+0000][1][gc,age       ] GC(10) - age   1:       7104 bytes,       7104 total
+[2019-12-21T17:38:04.138+0000][1][gc,age       ] GC(10) - age   2:       1256 bytes,       8360 total
+[2019-12-21T17:38:04.139+0000][1][gc,age       ] GC(10) - age   3:       5160 bytes,      13520 total
+[2019-12-21T17:38:04.139+0000][1][gc,age       ] GC(10) - age   4:       5776 bytes,      19296 total
+[2019-12-21T17:38:04.140+0000][1][gc,age       ] GC(10) - age   5:    8191776 bytes,    8211072 total
+[2019-12-21T17:38:04.140+0000][1][gc,heap      ] GC(10) ParNew: 286694K->10751K(306688K)
+[2019-12-21T17:38:04.141+0000][1][gc,heap      ] GC(10) CMS: 82749K->82749K(707840K)
+[2019-12-21T17:38:04.141+0000][1][gc,metaspace ] GC(10) Metaspace: 71883K->71883K(1114112K)
+[2019-12-21T17:38:04.141+0000][1][gc           ] GC(10) Pause Young (Allocation Failure) 360M->91M(990M) 11.289ms
+[2019-12-21T17:38:04.142+0000][1][gc,cpu       ] GC(10) User=0.02s Sys=0.00s Real=0.01s
+[2019-12-21T17:38:04.142+0000][1][safepoint    ] Total time for which application threads were stopped: 0.0123663 seconds, Stopping threads took: 0.0000337 seconds
