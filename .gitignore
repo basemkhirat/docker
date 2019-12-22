@@ -5,3 +5,4 @@
 /log/nginx/*
 /.idea
 /.code
+.DS_Store
