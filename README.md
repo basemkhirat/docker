@@ -14,9 +14,9 @@ A template to run php apps on docker.
 
 `log` folder to view log files.
 
-`www` folder to add PHP app.
-
 #### Installation
+
+In project root directory where index.php file is located:
 
 ```bash
 $ git clone https://github.com/basemkhirat/docker.git

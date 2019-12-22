@@ -4,3 +4,4 @@
 /log/elasticsearch/*
 /log/nginx/*
 /.idea
+/.code

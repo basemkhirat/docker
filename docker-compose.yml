@@ -12,7 +12,8 @@ services:
     networks:
       - local_network
     volumes:
-      - ./www:/www
+      - ../:/www
+      - /www/docker
       - ./etc/php/php.ini:/usr/local/etc/php/php.ini
       - ./etc/php/www.conf:/usr/local/etc/php-fpm.d/www.conf
 
@@ -22,7 +23,8 @@ services:
     ports:
       - 80:80
     volumes:
-      - ./www:/www
+      - ../:/www
+      - /www/docker
       - ./etc/nginx/conf.d:/etc/nginx/conf.d
       - ./etc/nginx/nginx.conf:/etc/nginx/nginx.conf
       - ./log/nginx:/var/log/nginx
@@ -74,4 +76,5 @@ services:
     ports:
       - 9200:9200
       - 9300:9300
+
 
