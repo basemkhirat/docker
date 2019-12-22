@@ -19,7 +19,9 @@ services:
 
   nginx:
     container_name: nginx
-    image: nginx:stable-alpine
+    build:
+      context: .
+      dockerfile: ./containers/nginx/Dockerfile
     ports:
       - 80:80
     volumes:
@@ -36,7 +38,9 @@ services:
 
   mysql:
     container_name: mysql
-    image: mysql:5.7.22
+    build:
+      context: .
+      dockerfile: ./containers/mysql/Dockerfile
     restart: unless-stopped
     tty: true
     volumes:
@@ -57,7 +61,9 @@ services:
 
   memcached:
     container_name: memcached
-    image: memcached:latest
+    build:
+      context: .
+      dockerfile: ./containers/memcached/Dockerfile
     networks:
       - local_network
     ports:
@@ -65,12 +71,14 @@ services:
 
   elasticsearch:
     container_name: elasticsearch
-    image: elasticsearch:6.4.1
+    build:
+      context: .
+      dockerfile: ./containers/elasticsearch/Dockerfile
     volumes:
-    - ./data/elasticsearch:/usr/share/elasticsearch/data
-    - ./log/elasticsearch:/usr/share/elasticsearch/logs
-    - ./etc/elasticsearch/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
-    - ./etc/elasticsearch/jvm.options:/usr/share/elasticsearch/config/jvm.options
+      - ./data/elasticsearch:/usr/share/elasticsearch/data
+      - ./log/elasticsearch:/usr/share/elasticsearch/logs
+      - ./etc/elasticsearch/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
+      - ./etc/elasticsearch/jvm.options:/usr/share/elasticsearch/config/jvm.options
     networks:
       - local_network
     ports:
