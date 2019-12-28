@@ -7,8 +7,7 @@ services:
   php:
     container_name: php
     build:
-      context: .
-      dockerfile: ./containers/php/Dockerfile
+      context: ./containers/php
     networks:
       - local_network
     volumes:
@@ -20,8 +19,7 @@ services:
   nginx:
     container_name: nginx
     build:
-      context: .
-      dockerfile: ./containers/nginx/Dockerfile
+      context: ./containers/nginx
     ports:
       - 80:80
     volumes:
@@ -39,8 +37,7 @@ services:
   mysql:
     container_name: mysql
     build:
-      context: .
-      dockerfile: ./containers/mysql/Dockerfile
+      context: ./containers/mysql
     restart: unless-stopped
     tty: true
     volumes:
@@ -54,16 +51,13 @@ services:
       MYSQL_USER: root
       MYSQL_PASSWORD: secret
       MYSQL_ROOT_PASSWORD: secret
-      SERVICE_TAGS: dev
-      SERVICE_NAME: mysql
     networks:
       - local_network
 
   memcached:
     container_name: memcached
     build:
-      context: .
-      dockerfile: ./containers/memcached/Dockerfile
+      context: ./containers/memcached
     networks:
       - local_network
     ports:
@@ -72,8 +66,7 @@ services:
   elasticsearch:
     container_name: elasticsearch
     build:
-      context: .
-      dockerfile: ./containers/elasticsearch/Dockerfile
+      context: ./containers/elasticsearch
     volumes:
       - ./data/elasticsearch:/usr/share/elasticsearch/data
       - ./log/elasticsearch:/usr/share/elasticsearch/logs
